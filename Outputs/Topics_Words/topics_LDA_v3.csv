@@ -1,0 +1,21 @@
+Topic ID	Words	Probabilities
+142	"""nutrient"", ""consumer"", ""stoichiometry"", ""stoichiometric"", ""feeding"""	0.039, 0.022, 0.014, 0.013, 0.011
+199	"""male"", ""female"", ""mating"", ""mate"", ""success"""	0.04, 0.028, 0.024, 0.01, 0.009
+31	"""association"", ""soil"", ""network"", ""nurse"", ""grazing"""	0.021, 0.01, 0.008, 0.007, 0.007
+156	"""badger"", ""wind"", ""clean"", ""performance"", ""stem"""	0.023, 0.019, 0.013, 0.011, 0.011
+167	"""snake"", ""prey"", ""teeth"", ""root"", ""aquatic"""	0.036, 0.028, 0.024, 0.022, 0.021
+138	"""nest"", ""cavity"", ""nesting"", ""breeding"", ""box"""	0.141, 0.024, 0.021, 0.017, 0.015
+160	"""olive"", ""warming"", ""acclimation"", ""copy"", ""httpsdoiorg"""	0.012, 0.009, 0.008, 0.007, 0.007
+143	"""genetic"", ""marginal"", ""genotype"", ""ﬁtness"", ""sexual"""	0.017, 0.01, 0.007, 0.007, 0.006
+141	"""seed"", ""uav"", ""camera"", ""prey"", ""biomass"""	0.013, 0.008, 0.008, 0.007, 0.007
+177	"""marine"", ""mpas"", ""protected"", ""biomass"", ""edge"""	0.02, 0.017, 0.013, 0.01, 0.01
+151	"""seed"", ""germination"", ""dispersal"", ""seedling"", ""dormancy"""	0.172, 0.038, 0.017, 0.013, 0.01
+4	"""cat"", ""dog"", ""sapiens"", ""hunting"", ""prey"""	0.02, 0.014, 0.011, 0.01, 0.008
+11	"""foraging"", ""marine"", ""turtle"", ""whale"", ""sea"""	0.025, 0.02, 0.013, 0.011, 0.009
+23	"""colony"", ""βdiversity"", ""genetic"", ""coral"", ""pocillopora"""	0.213, 0.014, 0.014, 0.013, 0.013
+84	"""island"", ""biol"", ""sci"", ""extinction"", ""evol"""	0.056, 0.03, 0.023, 0.017, 0.016
+136	"""lc"", ""ba"", ""nt"", ""iucn"", ""canopy"""	0.056, 0.032, 0.03, 0.022, 0.021
+183	"""island"", ""ocean"", ""pacific"", ""indian"", ""reef"""	0.069, 0.062, 0.041, 0.04, 0.037
+162	"""helper"", ""radiation"", ""missing"", ""strain"", ""weaver"""	0.028, 0.023, 0.015, 0.013, 0.012
+95	"""epigenetic"", ""dna"", ""gene"", ""strain"", ""methylation"""	0.016, 0.013, 0.013, 0.012, 0.009
+135	"""service"", ""people"", ""policy"", ""pesticide"", ""social"""	0.01, 0.009, 0.008, 0.007, 0.006
