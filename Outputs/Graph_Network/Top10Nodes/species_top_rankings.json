@@ -1,0 +1,554 @@
+{
+    "('GBIF:2878688', 'Quercus robur')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 1,
+            "score": 276120.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 1,
+            "score": 1670
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 1,
+            "score": 0.0966329287228303
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 5,
+            "score": 0.45363800937923
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 9,
+            "score": 0.0266508229376943
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 2,
+            "score": 0.1241500881390078
+        },
+        {
+            "attribute": "size",
+            "rank": 5,
+            "score": 44
+        }
+    ],
+    "('GBIF:2882316', 'Fagus sylvatica')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 2,
+            "score": 236932.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 2,
+            "score": 1520
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 4,
+            "score": 0.0423222422865369
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 3,
+            "score": 0.1130697557290354
+        },
+        {
+            "attribute": "size",
+            "rank": 3,
+            "score": 46
+        }
+    ],
+    "('GBIF:5285637', 'Pinus sylvestris')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 3,
+            "score": 203102.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 4,
+            "score": 1270
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 7,
+            "score": 0.449769028489002
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 10,
+            "score": 0.0906572651725006
+        },
+        {
+            "attribute": "size",
+            "rank": 8,
+            "score": 40
+        }
+    ],
+    "('GBIF:5284884', 'Picea abies')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 4,
+            "score": 201102.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 5,
+            "score": 1166
+        }
+    ],
+    "('GBIF:5331916', 'Betula pendula')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 5,
+            "score": 200320.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 6,
+            "score": 1144
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 3,
+            "score": 0.0950202657414094
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 5,
+            "score": 0.0977083857970284
+        }
+    ],
+    "('GBIF:2705308', 'Dactylis glomerata')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 6,
+            "score": 180440.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 8,
+            "score": 1036
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 6,
+            "score": 0.0926058979082743
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 8,
+            "score": 0.0921682195920423
+        }
+    ],
+    "('GBIF:2880130', 'Quercus petraea')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 7,
+            "score": 178256.0
+        }
+    ],
+    "('GBIF:2879098', 'Quercus ilex')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 8,
+            "score": 164872.0
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 10,
+            "score": 0.4449203349547873
+        }
+    ],
+    "('GBIF:5333294', 'Castanea sativa')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 9,
+            "score": 162194.0
+        }
+    ],
+    "('GBIF:2704178', 'Poa pratensis')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 10,
+            "score": 153826.0
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 4,
+            "score": 0.0948747111769579
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 6,
+            "score": 0.0951901284311256
+        }
+    ],
+    "('GBIF:2436436', 'Homo sapiens')": [
+        {
+            "attribute": "strength",
+            "rank": 3,
+            "score": 1410
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 1,
+            "score": 0.4962684797417534
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 1,
+            "score": 0.0843083260829497
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 1,
+            "score": 0.151347267690758
+        },
+        {
+            "attribute": "size",
+            "rank": 4,
+            "score": 44
+        }
+    ],
+    "('GBIF:2182873', 'Ixodes uriae')": [
+        {
+            "attribute": "strength",
+            "rank": 7,
+            "score": 1114
+        },
+        {
+            "attribute": "size",
+            "rank": 2,
+            "score": 48
+        }
+    ],
+    "('GBIF:8351946', 'Clupea harengus')": [
+        {
+            "attribute": "strength",
+            "rank": 9,
+            "score": 1028
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 2,
+            "score": 0.4651984977339077
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 5,
+            "score": 0.0405224723643818
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 4,
+            "score": 0.1085368924704104
+        }
+    ],
+    "('GBIF:8208358', 'Plantago lanceolata')": [
+        {
+            "attribute": "strength",
+            "rank": 10,
+            "score": 962
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 7,
+            "score": 0.0944346512213548
+        }
+    ],
+    "('GBIF:9694948', 'Thunnus alalunga')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 1,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:2259412', 'Astrangia poculata')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 2,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:9113937', 'Arinia hoeksemai')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 3,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:2260119', 'Favia fragum')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 4,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:1334527', 'Chelostoma florisomne')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 5,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:8310060', 'Rhynchophorus ferrugineus')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 6,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:8190192', 'Lebinthus luae')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 7,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:3152573', 'Hibiscus lunariifolius')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 8,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:7330275', 'Vismia guianensis')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 9,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:7946179', 'Davilla alata')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 10,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:3189486', 'Hypericum perforatum')": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 2,
+            "score": 0.0952581185021913
+        }
+    ],
+    "('GBIF:8195144', 'Rumex crispus')": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 5,
+            "score": 0.09323792179077
+        }
+    ],
+    "('GBIF:5371742', 'Anthriscus sylvestris')": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 7,
+            "score": 0.0905949615696332
+        }
+    ],
+    "('GBIF:2926557', 'Glechoma hederacea')": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 8,
+            "score": 0.090519878432118
+        }
+    ],
+    "('GBIF:8377689', 'Primula veris')": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 9,
+            "score": 0.0899174170243069
+        }
+    ],
+    "('GBIF:5369652', 'Geum urbanum')": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 10,
+            "score": 0.0895414011730284
+        }
+    ],
+    "('GBIF:7595433', 'Salmo salar')": [
+        {
+            "attribute": "closeness_centrality",
+            "rank": 3,
+            "score": 0.4638912814299517
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 2,
+            "score": 0.04519753639124
+        },
+        {
+            "attribute": "size",
+            "rank": 10,
+            "score": 36
+        }
+    ],
+    "('GBIF:2440958', 'Cervus elaphus')": [
+        {
+            "attribute": "closeness_centrality",
+            "rank": 4,
+            "score": 0.4576844429248017
+        }
+    ],
+    "('GBIF:5073713', 'Drosophila melanogaster')": [
+        {
+            "attribute": "closeness_centrality",
+            "rank": 6,
+            "score": 0.4507300734216708
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 6,
+            "score": 0.0340647935660365
+        },
+        {
+            "attribute": "size",
+            "rank": 7,
+            "score": 42
+        }
+    ],
+    "('GBIF:7705930', 'Sus scrofa')": [
+        {
+            "attribute": "closeness_centrality",
+            "rank": 8,
+            "score": 0.4490774853346133
+        }
+    ],
+    "('GBIF:9705453', 'Parus major')": [
+        {
+            "attribute": "closeness_centrality",
+            "rank": 9,
+            "score": 0.4453378065334453
+        },
+        {
+            "attribute": "size",
+            "rank": 1,
+            "score": 50
+        }
+    ],
+    "('GBIF:2384899', 'Lutjanus sebae')": [
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 3,
+            "score": 0.0442401159296595
+        }
+    ],
+    "('GBIF:5212031', 'Dascyllus trimaculatus')": [
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 7,
+            "score": 0.0316607557103466
+        }
+    ],
+    "('GBIF:5361880', 'Cannabis sativa')": [
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 8,
+            "score": 0.0289553556852333
+        },
+        {
+            "attribute": "size",
+            "rank": 6,
+            "score": 43
+        }
+    ],
+    "('GBIF:3152205', 'Theobroma cacao')": [
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 10,
+            "score": 0.0245526083927126
+        }
+    ],
+    "('GBIF:3113414', 'Cirsium arvense')": [
+        {
+            "attribute": "degree_centrality",
+            "rank": 9,
+            "score": 0.0914127423822714
+        }
+    ],
+    "('GBIF:2487879', 'Cyanistes caeruleus')": [
+        {
+            "attribute": "size",
+            "rank": 9,
+            "score": 38
+        }
+    ],
+    "('GBIF:2879127', 'Quercus castanea')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 1,
+            "score": 388.0
+        }
+    ],
+    "('GBIF:5219461', 'Elephas maximus')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 2,
+            "score": 368.5
+        }
+    ],
+    "('GBIF:3227348', 'Lactobacillus plantarum')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 3,
+            "score": 323.0
+        }
+    ],
+    "('GBIF:5001019', 'Phoebe phoebe')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 4,
+            "score": 319.0
+        }
+    ],
+    "('GBIF:6191893', 'Specioporus speciosus')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 5,
+            "score": 297.0
+        }
+    ],
+    "('GBIF:2517693', 'Hemileia vastatrix')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 6,
+            "score": 279.3333333333333
+        }
+    ],
+    "('GBIF:8733002', 'Vitis mesoamericana')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 7,
+            "score": 264.0
+        }
+    ],
+    "('GBIF:3974700', 'Vachellia tortilis')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 8,
+            "score": 264.0
+        }
+    ],
+    "('GBIF:5334638', 'Cosmibuena grandiflora')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 9,
+            "score": 262.5
+        }
+    ],
+    "('GBIF:8384488', 'Tragosoma depsarium')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 10,
+            "score": 249.875
+        }
+    ]
+}

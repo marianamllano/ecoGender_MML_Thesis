@@ -1,0 +1,524 @@
+{
+    "('GBIF:5386', 'Fabaceae')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 1,
+            "score": 244308.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 1,
+            "score": 2008
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 1,
+            "score": 0.151992089611617
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 1,
+            "score": 0.5854647199577084
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 2,
+            "score": 0.0578021986885185
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 1,
+            "score": 0.3395669291338583
+        },
+        {
+            "attribute": "size",
+            "rank": 1,
+            "score": 114
+        }
+    ],
+    "('GBIF:3065', 'Asteraceae')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 2,
+            "score": 229756.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 2,
+            "score": 1764
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 2,
+            "score": 0.1494309992018418
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 2,
+            "score": 0.5803380586621069
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 4,
+            "score": 0.0472076090930067
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 3,
+            "score": 0.3139763779527559
+        },
+        {
+            "attribute": "size",
+            "rank": 3,
+            "score": 104
+        }
+    ],
+    "('GBIF:4689', 'Fagaceae')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 3,
+            "score": 206648.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 3,
+            "score": 1448
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 10,
+            "score": 0.1129256462656789
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 5,
+            "score": 0.035714268863894
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 10,
+            "score": 0.2283464566929133
+        },
+        {
+            "attribute": "size",
+            "rank": 2,
+            "score": 108
+        }
+    ],
+    "('GBIF:3073', 'Poaceae')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 4,
+            "score": 189656.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 5,
+            "score": 1322
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 6,
+            "score": 0.1258803121710995
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 10,
+            "score": 0.5447227915003775
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 7,
+            "score": 0.233267716535433
+        },
+        {
+            "attribute": "size",
+            "rank": 5,
+            "score": 84
+        }
+    ],
+    "('GBIF:3112', 'Brassicaceae')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 5,
+            "score": 187768.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 4,
+            "score": 1336
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 7,
+            "score": 0.125364367665188
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 6,
+            "score": 0.5510637996054263
+        },
+        {
+            "attribute": "size",
+            "rank": 6,
+            "score": 84
+        }
+    ],
+    "('GBIF:3925', 'Pinaceae')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 6,
+            "score": 180126.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 6,
+            "score": 1296
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 8,
+            "score": 0.1212840380572347
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 7,
+            "score": 0.5504535406911346
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 6,
+            "score": 0.0300931774765262
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 6,
+            "score": 0.2391732283464566
+        },
+        {
+            "attribute": "size",
+            "rank": 4,
+            "score": 100
+        }
+    ],
+    "('GBIF:5015', 'Rosaceae')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 7,
+            "score": 173878.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 7,
+            "score": 1288
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 4,
+            "score": 0.1269795517786501
+        },
+        {
+            "attribute": "size",
+            "rank": 9,
+            "score": 63
+        }
+    ],
+    "('GBIF:8615', 'Salmonidae')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 8,
+            "score": 122020.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 8,
+            "score": 1248
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 3,
+            "score": 0.5803380586621069
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 1,
+            "score": 0.083610562606946
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 2,
+            "score": 0.3149606299212598
+        },
+        {
+            "attribute": "size",
+            "rank": 7,
+            "score": 82
+        }
+    ],
+    "('GBIF:4691', 'Euphorbiaceae')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 9,
+            "score": 113962.0
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 3,
+            "score": 0.127170990318614
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 9,
+            "score": 0.5465195681628308
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 8,
+            "score": 0.2293307086614173
+        }
+    ],
+    "('GBIF:5298', 'Cervidae')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 10,
+            "score": 109760.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 10,
+            "score": 942
+        },
+        {
+            "attribute": "size",
+            "rank": 10,
+            "score": 62
+        }
+    ],
+    "('GBIF:9327', 'Paridae')": [
+        {
+            "attribute": "strength",
+            "rank": 9,
+            "score": 952
+        },
+        {
+            "attribute": "size",
+            "rank": 8,
+            "score": 69
+        }
+    ],
+    "('GBIF:4879283', 'Astrangiidae')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 1,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:3244629', 'Diplommatinidae')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 2,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:3968', 'Faviidae')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 3,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:2511', 'Dilleniaceae')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 4,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:6676', 'Malpighiaceae')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 5,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:7609', 'Russulaceae')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 6,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:8455', 'Suillaceae')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 7,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:3277', 'Thelephoraceae')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 8,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:3077', 'Bombinatoridae')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 9,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:6080', 'Varroidae')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 10,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:5483', 'Hominidae')": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 5,
+            "score": 0.126469412282164
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 5,
+            "score": 0.5529027221847548
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 10,
+            "score": 0.0262199806292023
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 5,
+            "score": 0.2440944881889764
+        }
+    ],
+    "('GBIF:7336', 'Cyprinidae')": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 9,
+            "score": 0.1149456837892115
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 4,
+            "score": 0.5677436290623581
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 3,
+            "score": 0.0529454770601598
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 4,
+            "score": 0.281496062992126
+        }
+    ],
+    "('GBIF:7332', 'Clupeidae')": [
+        {
+            "attribute": "closeness_centrality",
+            "rank": 8,
+            "score": 0.547724019001757
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 9,
+            "score": 0.0281364029344287
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 9,
+            "score": 0.2283464566929133
+        }
+    ],
+    "('GBIF:5547', 'Drosophilidae')": [
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 7,
+            "score": 0.0288519742491886
+        }
+    ],
+    "('GBIF:8542', 'Lutjanidae')": [
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 8,
+            "score": 0.0287918954476863
+        }
+    ],
+    "('GBIF:8223', 'Rhaphidophoridae')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 1,
+            "score": 303.0
+        }
+    ],
+    "('GBIF:3114', 'Ephedraceae')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 2,
+            "score": 283.5
+        }
+    ],
+    "('GBIF:4605638', 'Clavatulidae')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 3,
+            "score": 237.0
+        }
+    ],
+    "('GBIF:4020', 'Chelodesmidae')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 4,
+            "score": 237.0
+        }
+    ],
+    "('GBIF:9699', 'Indicatoridae')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 5,
+            "score": 235.2
+        }
+    ],
+    "('GBIF:7899', 'Tingidae')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 6,
+            "score": 232.0
+        }
+    ],
+    "('GBIF:7818', 'Rhizobiaceae')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 7,
+            "score": 231.0
+        }
+    ],
+    "('GBIF:4483', 'Cordulegastridae')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 8,
+            "score": 228.25
+        }
+    ],
+    "('GBIF:4711', 'Lactobacillaceae')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 9,
+            "score": 221.0
+        }
+    ],
+    "('GBIF:8412', 'Cryphonectriaceae')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 10,
+            "score": 216.2
+        }
+    ]
+}

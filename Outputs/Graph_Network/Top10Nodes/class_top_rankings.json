@@ -1,0 +1,512 @@
+{
+    "('GBIF:220', 'Magnoliopsida')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 1,
+            "score": 18358.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 1,
+            "score": 780
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 1,
+            "score": 0.3489471868782159
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 1,
+            "score": 0.7470429549699108
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 1,
+            "score": 0.3099558249454204
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 1,
+            "score": 0.6721311475409837
+        },
+        {
+            "attribute": "size",
+            "rank": 1,
+            "score": 274
+        }
+    ],
+    "('GBIF:216', 'Insecta')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 2,
+            "score": 13232.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 2,
+            "score": 474
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 3,
+            "score": 0.2863531217358407
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 2,
+            "score": 0.6485317960727797
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 2,
+            "score": 0.1371687674760176
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 3,
+            "score": 0.4754098360655738
+        },
+        {
+            "attribute": "size",
+            "rank": 2,
+            "score": 150
+        }
+    ],
+    "('GBIF:196', 'Liliopsida')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 3,
+            "score": 11440.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 3,
+            "score": 378
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 2,
+            "score": 0.293353698701383
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 3,
+            "score": 0.6485317960727797
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 3,
+            "score": 0.1223336589728128
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 2,
+            "score": 0.4918032786885246
+        },
+        {
+            "attribute": "size",
+            "rank": 4,
+            "score": 106
+        }
+    ],
+    "('GBIF:194', 'Pinopsida')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 4,
+            "score": 8144.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 6,
+            "score": 264
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 5,
+            "score": 0.2580971051976219
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 5,
+            "score": 0.6147540983606558
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 5,
+            "score": 0.0729400083652608
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 5,
+            "score": 0.4098360655737705
+        },
+        {
+            "attribute": "size",
+            "rank": 6,
+            "score": 69
+        }
+    ],
+    "('GBIF:359', 'Mammalia')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 5,
+            "score": 8022.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 4,
+            "score": 324
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 4,
+            "score": 0.2816363907860701
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 4,
+            "score": 0.6212251941328731
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 4,
+            "score": 0.0817463588835968
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 4,
+            "score": 0.4262295081967213
+        },
+        {
+            "attribute": "size",
+            "rank": 3,
+            "score": 119
+        }
+    ],
+    "('GBIF:212', 'Aves')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 6,
+            "score": 7648.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 5,
+            "score": 312
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 6,
+            "score": 0.2531413448671969
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 6,
+            "score": 0.6022080963532954
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 7,
+            "score": 0.0629128208050199
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 6,
+            "score": 0.3770491803278689
+        },
+        {
+            "attribute": "size",
+            "rank": 5,
+            "score": 105
+        }
+    ],
+    "('GBIF:367', 'Arachnida')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 7,
+            "score": 4166.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 7,
+            "score": 158
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 8,
+            "score": 0.2053701777066489
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 9,
+            "score": 0.5515550789030181
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 10,
+            "score": 0.0286140113361856
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 9,
+            "score": 0.2459016393442623
+        },
+        {
+            "attribute": "size",
+            "rank": 7,
+            "score": 40
+        }
+    ],
+    "('GBIF:121', 'Elasmobranchii')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 8,
+            "score": 1514.0
+        }
+    ],
+    "('GBIF:11592253', 'Squamata')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 9,
+            "score": 1464.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 10,
+            "score": 60
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 8,
+            "score": 0.0423095298661836
+        },
+        {
+            "attribute": "size",
+            "rank": 8,
+            "score": 18
+        }
+    ],
+    "('GBIF:225', 'Gastropoda')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 10,
+            "score": 1390.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 9,
+            "score": 62
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 7,
+            "score": 0.2143316702429252
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 7,
+            "score": 0.5674653215636821
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 7,
+            "score": 0.2950819672131147
+        }
+    ],
+    "('GBIF:229', 'Malacostraca')": [
+        {
+            "attribute": "strength",
+            "rank": 8,
+            "score": 66
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 9,
+            "score": 0.1910576257986355
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 8,
+            "score": 0.5674653215636821
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 6,
+            "score": 0.0713272915735738
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 8,
+            "score": 0.2786885245901639
+        },
+        {
+            "attribute": "size",
+            "rank": 9,
+            "score": 15
+        }
+    ],
+    "('GBIF:186', 'Agaricomycetes')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 1,
+            "score": 1.0
+        },
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 4,
+            "score": 31.25
+        }
+    ],
+    "('GBIF:254', 'Palaeacanthocephala')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 2,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:270', 'Pucciniomycetes')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 3,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:7391750', 'Euglenoidea')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 4,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:255', 'Clitellata')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 5,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:361', 'Diplopoda')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 6,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:10689325', 'Rhizophydiomycetes')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 7,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:183', 'Dothideomycetes')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 8,
+            "score": 1.0
+        },
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 7,
+            "score": 28.0
+        }
+    ],
+    "('GBIF:10792796', 'Candelariomycetes')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 9,
+            "score": 1.0
+        },
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 9,
+            "score": 25.8
+        }
+    ],
+    "('GBIF:233', 'Filosia')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 10,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:131', 'Amphibia')": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 10,
+            "score": 0.1801440281346956
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 10,
+            "score": 0.5414348022258987
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 10,
+            "score": 0.2295081967213114
+        },
+        {
+            "attribute": "size",
+            "rank": 10,
+            "score": 12
+        }
+    ],
+    "('GBIF:179', 'Leotiomycetes')": [
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 9,
+            "score": 0.0294211556506638
+        }
+    ],
+    "('GBIF:282', 'Gnetopsida')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 1,
+            "score": 41.0
+        }
+    ],
+    "('GBIF:10860289', 'Campylobacteria')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 2,
+            "score": 41.0
+        }
+    ],
+    "('GBIF:7228684', 'Polypodiopsida')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 3,
+            "score": 32.0
+        }
+    ],
+    "('GBIF:9796761', 'Mucoromycetes')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 5,
+            "score": 29.0
+        }
+    ],
+    "('GBIF:176', 'Cubozoa')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 6,
+            "score": 28.25
+        }
+    ],
+    "('GBIF:222', 'Holothuroidea')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 8,
+            "score": 26.0
+        }
+    ],
+    "('GBIF:178', 'Eurotiomycetes')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 10,
+            "score": 24.4
+        }
+    ]
+}

@@ -1,0 +1,542 @@
+{
+    "('GBIF:2877951', 'Quercus')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 1,
+            "score": 270430.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 1,
+            "score": 1812
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 3,
+            "score": 0.103834527166358
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 2,
+            "score": 0.5129361602346765
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 2,
+            "score": 0.0477404313101484
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 2,
+            "score": 0.1750909826122118
+        },
+        {
+            "attribute": "size",
+            "rank": 1,
+            "score": 88
+        }
+    ],
+    "('GBIF:2684241', 'Pinus')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 2,
+            "score": 192122.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 2,
+            "score": 1264
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 6,
+            "score": 0.4979921851108924
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 6,
+            "score": 0.0376061533436109
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 5,
+            "score": 0.137484836231298
+        },
+        {
+            "attribute": "size",
+            "rank": 2,
+            "score": 72
+        }
+    ],
+    "('GBIF:2874875', 'Fagus')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 3,
+            "score": 175682.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 5,
+            "score": 1068
+        },
+        {
+            "attribute": "size",
+            "rank": 7,
+            "score": 46
+        }
+    ],
+    "('GBIF:7606064', 'Picea')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 4,
+            "score": 160426.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 10,
+            "score": 972
+        },
+        {
+            "attribute": "size",
+            "rank": 8,
+            "score": 45
+        }
+    ],
+    "('GBIF:3112554', 'Cirsium')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 5,
+            "score": 154612.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 6,
+            "score": 1026
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 1,
+            "score": 0.1103159867068917
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 8,
+            "score": 0.1338455317428225
+        }
+    ],
+    "('GBIF:2704173', 'Poa')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 6,
+            "score": 152788.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 8,
+            "score": 982
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 2,
+            "score": 0.1059457968307053
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 10,
+            "score": 0.1265669227658714
+        }
+    ],
+    "('GBIF:2875008', 'Betula')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 7,
+            "score": 142626.0
+        }
+    ],
+    "('GBIF:3189834', 'Acer')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 8,
+            "score": 141454.0
+        }
+    ],
+    "('GBIF:11397237', 'Euphorbia')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 9,
+            "score": 134868.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 7,
+            "score": 1024
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 6,
+            "score": 0.1028762566094089
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 3,
+            "score": 0.5047232086151985
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 7,
+            "score": 0.0366330127681552
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 3,
+            "score": 0.1581075616659927
+        }
+    ],
+    "('GBIF:3020559', 'Prunus')": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 10,
+            "score": 134526.0
+        },
+        {
+            "attribute": "strength",
+            "rank": 9,
+            "score": 976
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 9,
+            "score": 0.4871966901305679
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 9,
+            "score": 0.1322280630812778
+        }
+    ],
+    "('GBIF:8326529', 'Ixodes')": [
+        {
+            "attribute": "strength",
+            "rank": 3,
+            "score": 1206
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 8,
+            "score": 0.4933361606159531
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 10,
+            "score": 0.0272150934502507
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 6,
+            "score": 0.137484836231298
+        },
+        {
+            "attribute": "size",
+            "rank": 4,
+            "score": 50
+        }
+    ],
+    "('GBIF:2436435', 'Homo')": [
+        {
+            "attribute": "strength",
+            "rank": 4,
+            "score": 1184
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 1,
+            "score": 0.5255985080620376
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 1,
+            "score": 0.0759339348818771
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 1,
+            "score": 0.1912656692276587
+        },
+        {
+            "attribute": "size",
+            "rank": 10,
+            "score": 43
+        }
+    ],
+    "('GBIF:2259398', 'Astrangia')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 1,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:3244630', 'Arinia')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 2,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:10241599', 'Favia')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 3,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:1170237', 'Rhynchophorus')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 4,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:1723690', 'Lebinthus')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 5,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:3189574', 'Vismia')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 6,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:3234608', 'Davilla')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 7,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:2903511', 'Isertia')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 8,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:8323398', 'Bellucia')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 9,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:2872218', 'Anthurium')": [
+        {
+            "attribute": "clustering_coefficient",
+            "rank": 10,
+            "score": 1.0
+        }
+    ],
+    "('GBIF:2988638', 'Rubus')": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 4,
+            "score": 0.1037515039092785
+        }
+    ],
+    "('GBIF:2874237', 'Viola')": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 5,
+            "score": 0.1029422723745786
+        }
+    ],
+    "('GBIF:2926553', 'Prunella')": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 7,
+            "score": 0.100173645455044
+        }
+    ],
+    "('GBIF:3189452', 'Hypericum')": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 8,
+            "score": 0.0988012325841863
+        }
+    ],
+    "('GBIF:3161935', 'Campanula')": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 9,
+            "score": 0.0986087244882751
+        }
+    ],
+    "('GBIF:2913027', 'Galium')": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 10,
+            "score": 0.0976911247411284
+        }
+    ],
+    "('GBIF:1522683', 'Drosophila')": [
+        {
+            "attribute": "closeness_centrality",
+            "rank": 4,
+            "score": 0.4995295143507901
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 3,
+            "score": 0.0447077583194719
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 7,
+            "score": 0.1354630004043671
+        },
+        {
+            "attribute": "size",
+            "rank": 5,
+            "score": 49
+        }
+    ],
+    "('GBIF:2347608', 'Salmo')": [
+        {
+            "attribute": "closeness_centrality",
+            "rank": 5,
+            "score": 0.4990160177283078
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 5,
+            "score": 0.0388962264091946
+        },
+        {
+            "attribute": "size",
+            "rank": 6,
+            "score": 47
+        }
+    ],
+    "('GBIF:2346676', 'Clupea')": [
+        {
+            "attribute": "closeness_centrality",
+            "rank": 7,
+            "score": 0.4973798996373953
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 9,
+            "score": 0.0296109655515491
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 4,
+            "score": 0.1378892033966841
+        }
+    ],
+    "('GBIF:2351426', 'Oncorhynchus')": [
+        {
+            "attribute": "closeness_centrality",
+            "rank": 10,
+            "score": 0.4870011858407884
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 8,
+            "score": 0.0332853868755067
+        }
+    ],
+    "('GBIF:2356953', 'Lutjanus')": [
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 4,
+            "score": 0.0399137210254088
+        }
+    ],
+    "('GBIF:2487923', 'Parus')": [
+        {
+            "attribute": "size",
+            "rank": 3,
+            "score": 51
+        }
+    ],
+    "('GBIF:2984538', 'Cannabis')": [
+        {
+            "attribute": "size",
+            "rank": 9,
+            "score": 43
+        }
+    ],
+    "('GBIF:2020685', 'Stephanitis')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 1,
+            "score": 433.0
+        }
+    ],
+    "('GBIF:3223445', 'Lactobacillus')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 2,
+            "score": 335.0
+        }
+    ],
+    "('GBIF:4650818', 'Specioporus')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 3,
+            "score": 313.0
+        }
+    ],
+    "('GBIF:2580795', 'Pyrenopeziza')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 4,
+            "score": 302.5
+        }
+    ],
+    "('GBIF:2435351', 'Elephas')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 5,
+            "score": 299.0
+        }
+    ],
+    "('GBIF:1155014', 'Tragosoma')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 6,
+            "score": 286.4
+        }
+    ],
+    "('GBIF:1112969', 'Phoebe')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 7,
+            "score": 251.0
+        }
+    ],
+    "('GBIF:3031034', 'Polylepis')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 8,
+            "score": 246.55555555555557
+        }
+    ],
+    "('GBIF:2706001', 'Phleum')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 9,
+            "score": 235.33333333333331
+        }
+    ],
+    "('GBIF:3188793', 'Circaea')": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 10,
+            "score": 233.9
+        }
+    ]
+}

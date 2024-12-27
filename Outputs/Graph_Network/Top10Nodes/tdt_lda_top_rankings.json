@@ -1,0 +1,464 @@
+{
+    "L3": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 1,
+            "score": 68.01623376623377
+        },
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 4,
+            "score": 67.0
+        }
+    ],
+    "L16": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 2,
+            "score": 67.96
+        }
+    ],
+    "L62": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 3,
+            "score": 67.92307692307692
+        },
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 1,
+            "score": 67.19642857142857
+        }
+    ],
+    "L49": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 4,
+            "score": 67.88118811881188
+        },
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 5,
+            "score": 66.98333333333333
+        }
+    ],
+    "L11": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 5,
+            "score": 67.88051948051948
+        }
+    ],
+    "L26": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 6,
+            "score": 67.87687687687688
+        }
+    ],
+    "L25": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 7,
+            "score": 67.85846153846154
+        },
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 6,
+            "score": 66.93548387096774
+        }
+    ],
+    "L29": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 8,
+            "score": 67.83663366336634
+        }
+    ],
+    "L60": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 9,
+            "score": 67.80622009569377
+        }
+    ],
+    "L59": [
+        {
+            "attribute": "avg_weight_end_point_degree",
+            "rank": 10,
+            "score": 67.80102040816327
+        },
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 2,
+            "score": 67.04838709677419
+        }
+    ],
+    "L67": [
+        {
+            "attribute": "strength",
+            "rank": 1,
+            "score": 4560
+        },
+        {
+            "attribute": "size",
+            "rank": 1,
+            "score": 303
+        }
+    ],
+    "L64": [
+        {
+            "attribute": "strength",
+            "rank": 2,
+            "score": 3978
+        },
+        {
+            "attribute": "size",
+            "rank": 2,
+            "score": 268
+        }
+    ],
+    "L68": [
+        {
+            "attribute": "strength",
+            "rank": 3,
+            "score": 3300
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 10,
+            "score": 0.1243216479442906
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 10,
+            "score": 1.0
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 10,
+            "score": 0.0008520320074416
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 10,
+            "score": 1.0
+        },
+        {
+            "attribute": "size",
+            "rank": 3,
+            "score": 224
+        }
+    ],
+    "L21": [
+        {
+            "attribute": "strength",
+            "rank": 4,
+            "score": 3250
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 2,
+            "score": 0.1243216479442906
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 2,
+            "score": 1.0
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 2,
+            "score": 0.0008520320074416
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 2,
+            "score": 1.0
+        },
+        {
+            "attribute": "size",
+            "rank": 6,
+            "score": 201
+        }
+    ],
+    "L18": [
+        {
+            "attribute": "strength",
+            "rank": 5,
+            "score": 3248
+        },
+        {
+            "attribute": "size",
+            "rank": 4,
+            "score": 206
+        }
+    ],
+    "L12": [
+        {
+            "attribute": "strength",
+            "rank": 6,
+            "score": 3182
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 1,
+            "score": 0.1243216479442906
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 1,
+            "score": 1.0
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 1,
+            "score": 0.0008520320074416
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 1,
+            "score": 1.0
+        },
+        {
+            "attribute": "size",
+            "rank": 5,
+            "score": 204
+        }
+    ],
+    "L40": [
+        {
+            "attribute": "strength",
+            "rank": 7,
+            "score": 2928
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 8,
+            "score": 0.1243216479442906
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 8,
+            "score": 1.0
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 8,
+            "score": 0.0008520320074416
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 8,
+            "score": 1.0
+        },
+        {
+            "attribute": "size",
+            "rank": 8,
+            "score": 180
+        }
+    ],
+    "L66": [
+        {
+            "attribute": "strength",
+            "rank": 8,
+            "score": 2918
+        },
+        {
+            "attribute": "size",
+            "rank": 7,
+            "score": 192
+        }
+    ],
+    "L0": [
+        {
+            "attribute": "strength",
+            "rank": 9,
+            "score": 2756
+        }
+    ],
+    "L61": [
+        {
+            "attribute": "strength",
+            "rank": 10,
+            "score": 2614
+        },
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 7,
+            "score": 0.1243216479442906
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 7,
+            "score": 1.0
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 7,
+            "score": 0.0008520320074416
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 7,
+            "score": 1.0
+        },
+        {
+            "attribute": "size",
+            "rank": 10,
+            "score": 169
+        }
+    ],
+    "L57": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 3,
+            "score": 0.1243216479442906
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 3,
+            "score": 1.0
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 3,
+            "score": 0.0008520320074416
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 3,
+            "score": 1.0
+        }
+    ],
+    "L46": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 4,
+            "score": 0.1243216479442906
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 4,
+            "score": 1.0
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 4,
+            "score": 0.0008520320074416
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 4,
+            "score": 1.0
+        }
+    ],
+    "L50": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 5,
+            "score": 0.1243216479442906
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 5,
+            "score": 1.0
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 5,
+            "score": 0.0008520320074416
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 5,
+            "score": 1.0
+        }
+    ],
+    "L9": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 6,
+            "score": 0.1243216479442906
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 6,
+            "score": 1.0
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 6,
+            "score": 0.0008520320074416
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 6,
+            "score": 1.0
+        }
+    ],
+    "L53": [
+        {
+            "attribute": "eigenvector_centrality",
+            "rank": 9,
+            "score": 0.1243216479442906
+        },
+        {
+            "attribute": "closeness_centrality",
+            "rank": 9,
+            "score": 1.0
+        },
+        {
+            "attribute": "betweenness_centrality",
+            "rank": 9,
+            "score": 0.0008520320074416
+        },
+        {
+            "attribute": "degree_centrality",
+            "rank": 9,
+            "score": 1.0
+        }
+    ],
+    "L52": [
+        {
+            "attribute": "size",
+            "rank": 9,
+            "score": 173
+        }
+    ],
+    "L42": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 3,
+            "score": 67.02
+        }
+    ],
+    "L65": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 7,
+            "score": 66.91525423728814
+        }
+    ],
+    "L13": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 8,
+            "score": 66.84905660377359
+        }
+    ],
+    "L28": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 9,
+            "score": 66.83333333333333
+        }
+    ],
+    "L44": [
+        {
+            "attribute": "neighborhood_connectivity",
+            "rank": 10,
+            "score": 66.72413793103448
+        }
+    ]
+}
