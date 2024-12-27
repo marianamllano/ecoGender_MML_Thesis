@@ -1,0 +1,68 @@
+{
+    "louvain": [
+        {
+            "Number of Nodes": 3,
+            "Number of Edges": 3,
+            "Internal Density": 1.0,
+            "External Density": 0.6666666666666666,
+            "Graph Cut": 8,
+            "Modularity Score": 0.02693502544781551,
+            "Conductance": 0.7272727272727273,
+            "Clustering Coefficient": 1.0
+        },
+        {
+            "Number of Nodes": 4,
+            "Number of Edges": 4,
+            "Internal Density": 0.6666666666666666,
+            "External Density": 0.6666666666666666,
+            "Graph Cut": 8,
+            "Modularity Score": 0.02693502544781551,
+            "Conductance": 0.6666666666666666,
+            "Clustering Coefficient": 0.5833333333333333
+        }
+    ],
+    "girvan_newman": [
+        {
+            "Number of Nodes": 5,
+            "Number of Edges": 10,
+            "Internal Density": 1.0,
+            "External Density": 0.5,
+            "Graph Cut": 5,
+            "Modularity Score": -0.0107079119571683,
+            "Conductance": 0.3333333333333333,
+            "Clustering Coefficient": 1.0
+        },
+        {
+            "Number of Nodes": 1,
+            "Number of Edges": 0,
+            "Internal Density": 0,
+            "External Density": 0.6666666666666666,
+            "Graph Cut": 4,
+            "Modularity Score": -0.01041253552779425,
+            "Conductance": 1.0,
+            "Clustering Coefficient": 0.0
+        },
+        {
+            "Number of Nodes": 1,
+            "Number of Edges": 0,
+            "Internal Density": 0,
+            "External Density": 0.16666666666666666,
+            "Graph Cut": 1,
+            "Modularity Score": -2.0655694361712987e-06,
+            "Conductance": 1.0,
+            "Clustering Coefficient": 0.0
+        }
+    ],
+    "k_clique": [
+        {
+            "Number of Nodes": 6,
+            "Number of Edges": 14,
+            "Internal Density": 0.9333333333333333,
+            "External Density": 0.16666666666666666,
+            "Graph Cut": 1,
+            "Modularity Score": -2.0655694361712987e-06,
+            "Conductance": 0.06666666666666667,
+            "Clustering Coefficient": 0.9333333333333332
+        }
+    ]
+}

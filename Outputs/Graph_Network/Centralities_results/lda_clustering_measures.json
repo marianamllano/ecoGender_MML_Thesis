@@ -1,0 +1,78 @@
+{
+    "louvain": [
+        {
+            "Number of Nodes": 19,
+            "Number of Edges": 170,
+            "Internal Density": 0.9941520467836257,
+            "External Density": 0.9700722394220846,
+            "Graph Cut": 940,
+            "Modularity Score": 0.057767856302961204,
+            "Conductance": 0.8468468468468469,
+            "Clustering Coefficient": 0.9941520467836258
+        },
+        {
+            "Number of Nodes": 22,
+            "Number of Edges": 231,
+            "Internal Density": 1.0,
+            "External Density": 0.9498106060606061,
+            "Graph Cut": 1003,
+            "Modularity Score": 0.06427682302605181,
+            "Conductance": 0.8128038897893031,
+            "Clustering Coefficient": 1.0
+        },
+        {
+            "Number of Nodes": 29,
+            "Number of Edges": 375,
+            "Internal Density": 0.9236453201970444,
+            "External Density": 0.9428090832632464,
+            "Graph Cut": 1121,
+            "Modularity Score": 0.05332065238810424,
+            "Conductance": 0.7493315508021391,
+            "Clustering Coefficient": 0.9385409233795566
+        }
+    ],
+    "girvan_newman": [
+        {
+            "Number of Nodes": 68,
+            "Number of Edges": 2206,
+            "Internal Density": 0.9683933274802459,
+            "External Density": 0.7426470588235294,
+            "Graph Cut": 101,
+            "Modularity Score": 0.000407140477534243,
+            "Conductance": 0.043779800606848725,
+            "Clustering Coefficient": 0.9719699141540598
+        },
+        {
+            "Number of Nodes": 1,
+            "Number of Edges": 0,
+            "Internal Density": 0,
+            "External Density": 0.7246376811594203,
+            "Graph Cut": 50,
+            "Modularity Score": -1.094858497005938e-05,
+            "Conductance": 1.0,
+            "Clustering Coefficient": 0.0
+        },
+        {
+            "Number of Nodes": 1,
+            "Number of Edges": 0,
+            "Internal Density": 0,
+            "External Density": 0.7681159420289855,
+            "Graph Cut": 53,
+            "Modularity Score": -2.6217337252773024e-05,
+            "Conductance": 1.0,
+            "Clustering Coefficient": 0.0
+        }
+    ],
+    "k_clique": [
+        {
+            "Number of Nodes": 70,
+            "Number of Edges": 2308,
+            "Internal Density": 0.9556935817805383,
+            "External Density": 0,
+            "Graph Cut": 0,
+            "Modularity Score": 1.1102230246251565e-16,
+            "Conductance": 0.0,
+            "Clustering Coefficient": 0.9625620082384858
+        }
+    ]
+}
