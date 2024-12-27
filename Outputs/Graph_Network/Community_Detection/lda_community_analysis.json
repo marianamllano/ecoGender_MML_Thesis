@@ -1,0 +1,862 @@
+{
+    "louvain": {
+        "Community 0": [
+            {
+                "TopicID": "L0",
+                "Words": "niche, climatic, urban, shift, precipitation, adaptation, adaptive, occurrence, phenotypic, capacity"
+            },
+            {
+                "TopicID": "L2",
+                "Words": "bee, pollinator, pollen, floral, flower, wild, honey, urban, flowering, nectar"
+            },
+            {
+                "TopicID": "L8",
+                "Words": "seed, elevation, alpine, height, germination, gradient, elevational, functional, seedling, sla"
+            },
+            {
+                "TopicID": "L11",
+                "Words": "web, leaf, biomass, bef, functioning, tree, functional, seedling, competition, bromeliads"
+            },
+            {
+                "TopicID": "L17",
+                "Words": "phylogenetic, functional, phylogeny, niche, evolutionary, tree, telomere, extinction, signal, clade"
+            },
+            {
+                "TopicID": "L19",
+                "Words": "preprint, biorxiv, metric, peer, holder, authorfunder, plot, copyright, posted, granted"
+            },
+            {
+                "TopicID": "L21",
+                "Words": "forest, richness, landscape, land, vegetation, assemblage, cover, human, taxonomic, soil"
+            },
+            {
+                "TopicID": "L38",
+                "Words": "functional, gradient, leaf, facilitation, intraspecific, light, richness, stress, canopy, dispersion"
+            },
+            {
+                "TopicID": "L41",
+                "Words": "weed, biomass, mixture, grassland, monoculture, legume, grass, seed, plot, yield"
+            },
+            {
+                "TopicID": "L43",
+                "Words": "crop, landscape, service, agricultural, management, pollinator, seminatural, farming, pest, production"
+            },
+            {
+                "TopicID": "L46",
+                "Words": "drought, richness, productivity, climatic, warming, scenario, vegetation, gradient, europe, mountain"
+            },
+            {
+                "TopicID": "L47",
+                "Words": "litter, leaf, decomposition, mass, stream, quality, mixture, light, fungal, carbon"
+            },
+            {
+                "TopicID": "L48",
+                "Words": "root, biomass, nutrient, soil, web, stability, synchrony, diameter, cycling, fine"
+            },
+            {
+                "TopicID": "L57",
+                "Words": "soil, root, fungal, fungi, microbial, nitrogen, treatment, otus, sequence, substrate"
+            },
+            {
+                "TopicID": "L60",
+                "Words": "network, strength, association, matrix, node, social, betweenness, pollinator, mutualistic, degree"
+            },
+            {
+                "TopicID": "L64",
+                "Words": "evolutionary, competition, state, equilibrium, perturbation, extinction, equation, cycle, theory, simulation"
+            },
+            {
+                "TopicID": "L65",
+                "Words": "fire, plot, depth, peat, morph, burned, exposure, sphagnum, caterpillar, peatland"
+            },
+            {
+                "TopicID": "L66",
+                "Words": "tree, forest, leaf, plot, stand, oak, canopy, insect, herbivore, height"
+            },
+            {
+                "TopicID": "L67",
+                "Words": "competition, landscape, dispersal, patch, niche, simulation, metacommunity, temporal, prediction, space"
+            }
+        ],
+        "Community 1": [
+            {
+                "TopicID": "L3",
+                "Words": "lion, social, subgroup, forecast, encounter, prey, vegetation, season, elephant, horizon"
+            },
+            {
+                "TopicID": "L4",
+                "Words": "bird, breeding, winter, migration, season, helper, hunting, survival, colony, summer"
+            },
+            {
+                "TopicID": "L5",
+                "Words": "dispersal, patch, movement, fitness, plasticity, cell, landscape, cost, dispersing, disperse"
+            },
+            {
+                "TopicID": "L10",
+                "Words": "tit, clutch, date, laying, blue, great, nest, bird, breeding, reproductive"
+            },
+            {
+                "TopicID": "L12",
+                "Words": "monitoring, detection, trend, occupancy, observer, survey, count, bird, camera, sensor"
+            },
+            {
+                "TopicID": "L14",
+                "Words": "deer, probability, state, roe, home, duration, capture, occasion, stopover, detection"
+            },
+            {
+                "TopicID": "L16",
+                "Words": "disturbance, intensity, harvesting, bodysize, harvest, regime, mosquito, log, frequency, reef"
+            },
+            {
+                "TopicID": "L18",
+                "Words": "conservation, management, protected, marine, resilience, mpas, human, protection, assessment, policy"
+            },
+            {
+                "TopicID": "L20",
+                "Words": "rodent, trap, bat, solar, apc, rattus, rat, trapping, mouse, night"
+            },
+            {
+                "TopicID": "L24",
+                "Words": "season, seasonal, behavioural, behaviour, day, month, female, daily, movement, active"
+            },
+            {
+                "TopicID": "L28",
+                "Words": "nest, treeline, cavity, nesting, pair, snow, box, tree, breeding, extra"
+            },
+            {
+                "TopicID": "L29",
+                "Words": "movement, edna, connectivity, fish, depth, marine, richness, family, fruit, dna"
+            },
+            {
+                "TopicID": "L33",
+                "Words": "probability, psi, survival, adult, state, capture, female, juvenile, breeding, offspring"
+            },
+            {
+                "TopicID": "L34",
+                "Words": "foraging, seal, prey, dive, behavior, breeding, movement, sea, bird, isotopic"
+            },
+            {
+                "TopicID": "L35",
+                "Words": "body, mass, adult, age, length, female, birth, sex, male, date"
+            },
+            {
+                "TopicID": "L40",
+                "Words": "prey, predator, predation, bird, trophic, attack, diet, feeding, functional, predatorprey"
+            },
+            {
+                "TopicID": "L50",
+                "Words": "male, female, reproductive, sperm, immune, sex, sexual, insect, pollinator, cost"
+            },
+            {
+                "TopicID": "L52",
+                "Words": "survival, age, breeding, probability, female, demographic, mortality, state, reproductive, class"
+            },
+            {
+                "TopicID": "L53",
+                "Words": "human, people, heritage, cultural, land, elephant, social, practice, village, wild"
+            },
+            {
+                "TopicID": "L54",
+                "Words": "owl, vole, predation, element, goshawk, prey, predator, tawny, turbine, wind"
+            },
+            {
+                "TopicID": "L68",
+                "Words": "online, library, rule, downloaded, governed, applicable, writing, supporting, colony, tree"
+            },
+            {
+                "TopicID": "L69",
+                "Words": "female, offspring, sex, male, reproductive, mating, success, egg, maternal, moth"
+            }
+        ],
+        "Community 2": [
+            {
+                "TopicID": "L1",
+                "Words": "fish, bat, reef, roost, body, content, feeding, cat, behavior, feces"
+            },
+            {
+                "TopicID": "L6",
+                "Words": "microbial, concentration, sphagnum, dom, cell, organic, phytoplankton, photosynthetic, production, marine"
+            },
+            {
+                "TopicID": "L7",
+                "Words": "cost, bird, alien, stem, damage, feather, monetary, herbivory, evans, mesa"
+            },
+            {
+                "TopicID": "L9",
+                "Words": "egg, larva, larval, treatment, adult, stage, survival, insect, colony, family"
+            },
+            {
+                "TopicID": "L13",
+                "Words": "virulence, parasite, virulent, \ufb01re, strain, risk, cockle, nutritional, infection, social"
+            },
+            {
+                "TopicID": "L15",
+                "Words": "exposure, whale, fertilization, sonar, enrichment, supply, digestibility, state, shape, sperm"
+            },
+            {
+                "TopicID": "L22",
+                "Words": "tlr, salinity, marine, ggg, manatee, algae, oyster, atlantic, phytoplankton, service"
+            },
+            {
+                "TopicID": "L23",
+                "Words": "genetic, locus, cluster, sea, differentiation, gene, marker, haplotype, sequence, atlantic"
+            },
+            {
+                "TopicID": "L25",
+                "Words": "mimicry, wing, colour, pal, butterfly, phenotype, predator, microhabitat, signal, ring"
+            },
+            {
+                "TopicID": "L26",
+                "Words": "med, ssa, meam, shape, tabaci, ordination, teeth, axis, segregation, snake"
+            },
+            {
+                "TopicID": "L27",
+                "Words": "trophic, lake, fish, body, zooplankton, predator, perch, length, biomass, pike"
+            },
+            {
+                "TopicID": "L30",
+                "Words": "river, flow, benthic, grazing, stocking, freshwater, stream, aquatic, drying, sediment"
+            },
+            {
+                "TopicID": "L31",
+                "Words": "meadow, database, edge, institute, usa, name, marina, phenotypic, energy, leaf"
+            },
+            {
+                "TopicID": "L32",
+                "Words": "fishery, yield, month, plot, needle, stock, wheat, catch, connectivity, fishing"
+            },
+            {
+                "TopicID": "L36",
+                "Words": "coral, reef, colony, scenario, red, clade, symbiodinium, calcification, seawater, bacterial"
+            },
+            {
+                "TopicID": "L37",
+                "Words": "metabolic, nutrient, consumer, thermal, energy, warming, organism, energetic, biomass, stoichiometric"
+            },
+            {
+                "TopicID": "L39",
+                "Words": "host, aphid, infection, parasitoid, pathogen, parasite, disease, parasitoids, infected, enemy"
+            },
+            {
+                "TopicID": "L42",
+                "Words": "infected, infection, wolbachia, uninfected, paramecium, parasite, leaf, mrt, treatment, lls"
+            },
+            {
+                "TopicID": "L44",
+                "Words": "fire, diatom, pollen, light, patch, mass, rmr, load, energy, ice"
+            },
+            {
+                "TopicID": "L45",
+                "Words": "thermal, treatment, lizard, warming, body, heat, day, stress, summer, ectotherm"
+            },
+            {
+                "TopicID": "L49",
+                "Words": "niche, fruit, fly, host, invasion, breadth, nutritional, category, zonata, quality"
+            },
+            {
+                "TopicID": "L51",
+                "Words": "island, epigenetic, isolation, atoll, endemic, dispersal, methylation, richness, archipelago, rabbit"
+            },
+            {
+                "TopicID": "L55",
+                "Words": "strain, mite, orchid, treatment, radiation, versus, exposure, spider, marginal, infection"
+            },
+            {
+                "TopicID": "L56",
+                "Words": "parasite, host, mite, diet, genotype, cancer, wild, blood, disease, aquaculture"
+            },
+            {
+                "TopicID": "L58",
+                "Words": "genetic, snp, gene, locus, genome, allele, dna, sequencing, generation, inbreeding"
+            },
+            {
+                "TopicID": "L59",
+                "Words": "ant, forest, colony, nest, worker, edge, queen, tree, compound, leaf"
+            },
+            {
+                "TopicID": "L61",
+                "Words": "genetic, phenotypic, adaptation, genotype, gene, hybrid, garden, allele, evolutionary, fitness"
+            },
+            {
+                "TopicID": "L62",
+                "Words": "sediment, concentration, catchment, seed, stream, buffer, woody, exposure, indirect, phenological"
+            },
+            {
+                "TopicID": "L63",
+                "Words": "native, invasion, invasive, primer, introduced, alien, dna, nonnative, sequence, success"
+            }
+        ]
+    },
+    "girvan_newman": {
+        "Community 0": [
+            {
+                "TopicID": "L0",
+                "Words": "niche, climatic, urban, shift, precipitation, adaptation, adaptive, occurrence, phenotypic, capacity"
+            },
+            {
+                "TopicID": "L1",
+                "Words": "fish, bat, reef, roost, body, content, feeding, cat, behavior, feces"
+            },
+            {
+                "TopicID": "L2",
+                "Words": "bee, pollinator, pollen, floral, flower, wild, honey, urban, flowering, nectar"
+            },
+            {
+                "TopicID": "L3",
+                "Words": "lion, social, subgroup, forecast, encounter, prey, vegetation, season, elephant, horizon"
+            },
+            {
+                "TopicID": "L4",
+                "Words": "bird, breeding, winter, migration, season, helper, hunting, survival, colony, summer"
+            },
+            {
+                "TopicID": "L5",
+                "Words": "dispersal, patch, movement, fitness, plasticity, cell, landscape, cost, dispersing, disperse"
+            },
+            {
+                "TopicID": "L6",
+                "Words": "microbial, concentration, sphagnum, dom, cell, organic, phytoplankton, photosynthetic, production, marine"
+            },
+            {
+                "TopicID": "L7",
+                "Words": "cost, bird, alien, stem, damage, feather, monetary, herbivory, evans, mesa"
+            },
+            {
+                "TopicID": "L8",
+                "Words": "seed, elevation, alpine, height, germination, gradient, elevational, functional, seedling, sla"
+            },
+            {
+                "TopicID": "L9",
+                "Words": "egg, larva, larval, treatment, adult, stage, survival, insect, colony, family"
+            },
+            {
+                "TopicID": "L10",
+                "Words": "tit, clutch, date, laying, blue, great, nest, bird, breeding, reproductive"
+            },
+            {
+                "TopicID": "L11",
+                "Words": "web, leaf, biomass, bef, functioning, tree, functional, seedling, competition, bromeliads"
+            },
+            {
+                "TopicID": "L12",
+                "Words": "monitoring, detection, trend, occupancy, observer, survey, count, bird, camera, sensor"
+            },
+            {
+                "TopicID": "L14",
+                "Words": "deer, probability, state, roe, home, duration, capture, occasion, stopover, detection"
+            },
+            {
+                "TopicID": "L15",
+                "Words": "exposure, whale, fertilization, sonar, enrichment, supply, digestibility, state, shape, sperm"
+            },
+            {
+                "TopicID": "L16",
+                "Words": "disturbance, intensity, harvesting, bodysize, harvest, regime, mosquito, log, frequency, reef"
+            },
+            {
+                "TopicID": "L17",
+                "Words": "phylogenetic, functional, phylogeny, niche, evolutionary, tree, telomere, extinction, signal, clade"
+            },
+            {
+                "TopicID": "L18",
+                "Words": "conservation, management, protected, marine, resilience, mpas, human, protection, assessment, policy"
+            },
+            {
+                "TopicID": "L19",
+                "Words": "preprint, biorxiv, metric, peer, holder, authorfunder, plot, copyright, posted, granted"
+            },
+            {
+                "TopicID": "L20",
+                "Words": "rodent, trap, bat, solar, apc, rattus, rat, trapping, mouse, night"
+            },
+            {
+                "TopicID": "L21",
+                "Words": "forest, richness, landscape, land, vegetation, assemblage, cover, human, taxonomic, soil"
+            },
+            {
+                "TopicID": "L22",
+                "Words": "tlr, salinity, marine, ggg, manatee, algae, oyster, atlantic, phytoplankton, service"
+            },
+            {
+                "TopicID": "L23",
+                "Words": "genetic, locus, cluster, sea, differentiation, gene, marker, haplotype, sequence, atlantic"
+            },
+            {
+                "TopicID": "L24",
+                "Words": "season, seasonal, behavioural, behaviour, day, month, female, daily, movement, active"
+            },
+            {
+                "TopicID": "L25",
+                "Words": "mimicry, wing, colour, pal, butterfly, phenotype, predator, microhabitat, signal, ring"
+            },
+            {
+                "TopicID": "L26",
+                "Words": "med, ssa, meam, shape, tabaci, ordination, teeth, axis, segregation, snake"
+            },
+            {
+                "TopicID": "L27",
+                "Words": "trophic, lake, fish, body, zooplankton, predator, perch, length, biomass, pike"
+            },
+            {
+                "TopicID": "L28",
+                "Words": "nest, treeline, cavity, nesting, pair, snow, box, tree, breeding, extra"
+            },
+            {
+                "TopicID": "L29",
+                "Words": "movement, edna, connectivity, fish, depth, marine, richness, family, fruit, dna"
+            },
+            {
+                "TopicID": "L30",
+                "Words": "river, flow, benthic, grazing, stocking, freshwater, stream, aquatic, drying, sediment"
+            },
+            {
+                "TopicID": "L31",
+                "Words": "meadow, database, edge, institute, usa, name, marina, phenotypic, energy, leaf"
+            },
+            {
+                "TopicID": "L32",
+                "Words": "fishery, yield, month, plot, needle, stock, wheat, catch, connectivity, fishing"
+            },
+            {
+                "TopicID": "L33",
+                "Words": "probability, psi, survival, adult, state, capture, female, juvenile, breeding, offspring"
+            },
+            {
+                "TopicID": "L34",
+                "Words": "foraging, seal, prey, dive, behavior, breeding, movement, sea, bird, isotopic"
+            },
+            {
+                "TopicID": "L35",
+                "Words": "body, mass, adult, age, length, female, birth, sex, male, date"
+            },
+            {
+                "TopicID": "L36",
+                "Words": "coral, reef, colony, scenario, red, clade, symbiodinium, calcification, seawater, bacterial"
+            },
+            {
+                "TopicID": "L37",
+                "Words": "metabolic, nutrient, consumer, thermal, energy, warming, organism, energetic, biomass, stoichiometric"
+            },
+            {
+                "TopicID": "L38",
+                "Words": "functional, gradient, leaf, facilitation, intraspecific, light, richness, stress, canopy, dispersion"
+            },
+            {
+                "TopicID": "L39",
+                "Words": "host, aphid, infection, parasitoid, pathogen, parasite, disease, parasitoids, infected, enemy"
+            },
+            {
+                "TopicID": "L40",
+                "Words": "prey, predator, predation, bird, trophic, attack, diet, feeding, functional, predatorprey"
+            },
+            {
+                "TopicID": "L41",
+                "Words": "weed, biomass, mixture, grassland, monoculture, legume, grass, seed, plot, yield"
+            },
+            {
+                "TopicID": "L43",
+                "Words": "crop, landscape, service, agricultural, management, pollinator, seminatural, farming, pest, production"
+            },
+            {
+                "TopicID": "L44",
+                "Words": "fire, diatom, pollen, light, patch, mass, rmr, load, energy, ice"
+            },
+            {
+                "TopicID": "L45",
+                "Words": "thermal, treatment, lizard, warming, body, heat, day, stress, summer, ectotherm"
+            },
+            {
+                "TopicID": "L46",
+                "Words": "drought, richness, productivity, climatic, warming, scenario, vegetation, gradient, europe, mountain"
+            },
+            {
+                "TopicID": "L47",
+                "Words": "litter, leaf, decomposition, mass, stream, quality, mixture, light, fungal, carbon"
+            },
+            {
+                "TopicID": "L48",
+                "Words": "root, biomass, nutrient, soil, web, stability, synchrony, diameter, cycling, fine"
+            },
+            {
+                "TopicID": "L49",
+                "Words": "niche, fruit, fly, host, invasion, breadth, nutritional, category, zonata, quality"
+            },
+            {
+                "TopicID": "L50",
+                "Words": "male, female, reproductive, sperm, immune, sex, sexual, insect, pollinator, cost"
+            },
+            {
+                "TopicID": "L51",
+                "Words": "island, epigenetic, isolation, atoll, endemic, dispersal, methylation, richness, archipelago, rabbit"
+            },
+            {
+                "TopicID": "L52",
+                "Words": "survival, age, breeding, probability, female, demographic, mortality, state, reproductive, class"
+            },
+            {
+                "TopicID": "L53",
+                "Words": "human, people, heritage, cultural, land, elephant, social, practice, village, wild"
+            },
+            {
+                "TopicID": "L54",
+                "Words": "owl, vole, predation, element, goshawk, prey, predator, tawny, turbine, wind"
+            },
+            {
+                "TopicID": "L55",
+                "Words": "strain, mite, orchid, treatment, radiation, versus, exposure, spider, marginal, infection"
+            },
+            {
+                "TopicID": "L56",
+                "Words": "parasite, host, mite, diet, genotype, cancer, wild, blood, disease, aquaculture"
+            },
+            {
+                "TopicID": "L57",
+                "Words": "soil, root, fungal, fungi, microbial, nitrogen, treatment, otus, sequence, substrate"
+            },
+            {
+                "TopicID": "L58",
+                "Words": "genetic, snp, gene, locus, genome, allele, dna, sequencing, generation, inbreeding"
+            },
+            {
+                "TopicID": "L59",
+                "Words": "ant, forest, colony, nest, worker, edge, queen, tree, compound, leaf"
+            },
+            {
+                "TopicID": "L60",
+                "Words": "network, strength, association, matrix, node, social, betweenness, pollinator, mutualistic, degree"
+            },
+            {
+                "TopicID": "L61",
+                "Words": "genetic, phenotypic, adaptation, genotype, gene, hybrid, garden, allele, evolutionary, fitness"
+            },
+            {
+                "TopicID": "L62",
+                "Words": "sediment, concentration, catchment, seed, stream, buffer, woody, exposure, indirect, phenological"
+            },
+            {
+                "TopicID": "L63",
+                "Words": "native, invasion, invasive, primer, introduced, alien, dna, nonnative, sequence, success"
+            },
+            {
+                "TopicID": "L64",
+                "Words": "evolutionary, competition, state, equilibrium, perturbation, extinction, equation, cycle, theory, simulation"
+            },
+            {
+                "TopicID": "L65",
+                "Words": "fire, plot, depth, peat, morph, burned, exposure, sphagnum, caterpillar, peatland"
+            },
+            {
+                "TopicID": "L66",
+                "Words": "tree, forest, leaf, plot, stand, oak, canopy, insect, herbivore, height"
+            },
+            {
+                "TopicID": "L67",
+                "Words": "competition, landscape, dispersal, patch, niche, simulation, metacommunity, temporal, prediction, space"
+            },
+            {
+                "TopicID": "L68",
+                "Words": "online, library, rule, downloaded, governed, applicable, writing, supporting, colony, tree"
+            },
+            {
+                "TopicID": "L69",
+                "Words": "female, offspring, sex, male, reproductive, mating, success, egg, maternal, moth"
+            }
+        ],
+        "Community 1": [
+            {
+                "TopicID": "L42",
+                "Words": "infected, infection, wolbachia, uninfected, paramecium, parasite, leaf, mrt, treatment, lls"
+            }
+        ],
+        "Community 2": [
+            {
+                "TopicID": "L13",
+                "Words": "virulence, parasite, virulent, \ufb01re, strain, risk, cockle, nutritional, infection, social"
+            }
+        ]
+    },
+    "k_clique": {
+        "Community 0": [
+            {
+                "TopicID": "L0",
+                "Words": "niche, climatic, urban, shift, precipitation, adaptation, adaptive, occurrence, phenotypic, capacity"
+            },
+            {
+                "TopicID": "L1",
+                "Words": "fish, bat, reef, roost, body, content, feeding, cat, behavior, feces"
+            },
+            {
+                "TopicID": "L2",
+                "Words": "bee, pollinator, pollen, floral, flower, wild, honey, urban, flowering, nectar"
+            },
+            {
+                "TopicID": "L3",
+                "Words": "lion, social, subgroup, forecast, encounter, prey, vegetation, season, elephant, horizon"
+            },
+            {
+                "TopicID": "L4",
+                "Words": "bird, breeding, winter, migration, season, helper, hunting, survival, colony, summer"
+            },
+            {
+                "TopicID": "L5",
+                "Words": "dispersal, patch, movement, fitness, plasticity, cell, landscape, cost, dispersing, disperse"
+            },
+            {
+                "TopicID": "L6",
+                "Words": "microbial, concentration, sphagnum, dom, cell, organic, phytoplankton, photosynthetic, production, marine"
+            },
+            {
+                "TopicID": "L7",
+                "Words": "cost, bird, alien, stem, damage, feather, monetary, herbivory, evans, mesa"
+            },
+            {
+                "TopicID": "L8",
+                "Words": "seed, elevation, alpine, height, germination, gradient, elevational, functional, seedling, sla"
+            },
+            {
+                "TopicID": "L9",
+                "Words": "egg, larva, larval, treatment, adult, stage, survival, insect, colony, family"
+            },
+            {
+                "TopicID": "L10",
+                "Words": "tit, clutch, date, laying, blue, great, nest, bird, breeding, reproductive"
+            },
+            {
+                "TopicID": "L11",
+                "Words": "web, leaf, biomass, bef, functioning, tree, functional, seedling, competition, bromeliads"
+            },
+            {
+                "TopicID": "L12",
+                "Words": "monitoring, detection, trend, occupancy, observer, survey, count, bird, camera, sensor"
+            },
+            {
+                "TopicID": "L13",
+                "Words": "virulence, parasite, virulent, \ufb01re, strain, risk, cockle, nutritional, infection, social"
+            },
+            {
+                "TopicID": "L14",
+                "Words": "deer, probability, state, roe, home, duration, capture, occasion, stopover, detection"
+            },
+            {
+                "TopicID": "L15",
+                "Words": "exposure, whale, fertilization, sonar, enrichment, supply, digestibility, state, shape, sperm"
+            },
+            {
+                "TopicID": "L16",
+                "Words": "disturbance, intensity, harvesting, bodysize, harvest, regime, mosquito, log, frequency, reef"
+            },
+            {
+                "TopicID": "L17",
+                "Words": "phylogenetic, functional, phylogeny, niche, evolutionary, tree, telomere, extinction, signal, clade"
+            },
+            {
+                "TopicID": "L18",
+                "Words": "conservation, management, protected, marine, resilience, mpas, human, protection, assessment, policy"
+            },
+            {
+                "TopicID": "L19",
+                "Words": "preprint, biorxiv, metric, peer, holder, authorfunder, plot, copyright, posted, granted"
+            },
+            {
+                "TopicID": "L20",
+                "Words": "rodent, trap, bat, solar, apc, rattus, rat, trapping, mouse, night"
+            },
+            {
+                "TopicID": "L21",
+                "Words": "forest, richness, landscape, land, vegetation, assemblage, cover, human, taxonomic, soil"
+            },
+            {
+                "TopicID": "L22",
+                "Words": "tlr, salinity, marine, ggg, manatee, algae, oyster, atlantic, phytoplankton, service"
+            },
+            {
+                "TopicID": "L23",
+                "Words": "genetic, locus, cluster, sea, differentiation, gene, marker, haplotype, sequence, atlantic"
+            },
+            {
+                "TopicID": "L24",
+                "Words": "season, seasonal, behavioural, behaviour, day, month, female, daily, movement, active"
+            },
+            {
+                "TopicID": "L25",
+                "Words": "mimicry, wing, colour, pal, butterfly, phenotype, predator, microhabitat, signal, ring"
+            },
+            {
+                "TopicID": "L26",
+                "Words": "med, ssa, meam, shape, tabaci, ordination, teeth, axis, segregation, snake"
+            },
+            {
+                "TopicID": "L27",
+                "Words": "trophic, lake, fish, body, zooplankton, predator, perch, length, biomass, pike"
+            },
+            {
+                "TopicID": "L28",
+                "Words": "nest, treeline, cavity, nesting, pair, snow, box, tree, breeding, extra"
+            },
+            {
+                "TopicID": "L29",
+                "Words": "movement, edna, connectivity, fish, depth, marine, richness, family, fruit, dna"
+            },
+            {
+                "TopicID": "L30",
+                "Words": "river, flow, benthic, grazing, stocking, freshwater, stream, aquatic, drying, sediment"
+            },
+            {
+                "TopicID": "L31",
+                "Words": "meadow, database, edge, institute, usa, name, marina, phenotypic, energy, leaf"
+            },
+            {
+                "TopicID": "L32",
+                "Words": "fishery, yield, month, plot, needle, stock, wheat, catch, connectivity, fishing"
+            },
+            {
+                "TopicID": "L33",
+                "Words": "probability, psi, survival, adult, state, capture, female, juvenile, breeding, offspring"
+            },
+            {
+                "TopicID": "L34",
+                "Words": "foraging, seal, prey, dive, behavior, breeding, movement, sea, bird, isotopic"
+            },
+            {
+                "TopicID": "L35",
+                "Words": "body, mass, adult, age, length, female, birth, sex, male, date"
+            },
+            {
+                "TopicID": "L36",
+                "Words": "coral, reef, colony, scenario, red, clade, symbiodinium, calcification, seawater, bacterial"
+            },
+            {
+                "TopicID": "L37",
+                "Words": "metabolic, nutrient, consumer, thermal, energy, warming, organism, energetic, biomass, stoichiometric"
+            },
+            {
+                "TopicID": "L38",
+                "Words": "functional, gradient, leaf, facilitation, intraspecific, light, richness, stress, canopy, dispersion"
+            },
+            {
+                "TopicID": "L39",
+                "Words": "host, aphid, infection, parasitoid, pathogen, parasite, disease, parasitoids, infected, enemy"
+            },
+            {
+                "TopicID": "L40",
+                "Words": "prey, predator, predation, bird, trophic, attack, diet, feeding, functional, predatorprey"
+            },
+            {
+                "TopicID": "L41",
+                "Words": "weed, biomass, mixture, grassland, monoculture, legume, grass, seed, plot, yield"
+            },
+            {
+                "TopicID": "L42",
+                "Words": "infected, infection, wolbachia, uninfected, paramecium, parasite, leaf, mrt, treatment, lls"
+            },
+            {
+                "TopicID": "L43",
+                "Words": "crop, landscape, service, agricultural, management, pollinator, seminatural, farming, pest, production"
+            },
+            {
+                "TopicID": "L44",
+                "Words": "fire, diatom, pollen, light, patch, mass, rmr, load, energy, ice"
+            },
+            {
+                "TopicID": "L45",
+                "Words": "thermal, treatment, lizard, warming, body, heat, day, stress, summer, ectotherm"
+            },
+            {
+                "TopicID": "L46",
+                "Words": "drought, richness, productivity, climatic, warming, scenario, vegetation, gradient, europe, mountain"
+            },
+            {
+                "TopicID": "L47",
+                "Words": "litter, leaf, decomposition, mass, stream, quality, mixture, light, fungal, carbon"
+            },
+            {
+                "TopicID": "L48",
+                "Words": "root, biomass, nutrient, soil, web, stability, synchrony, diameter, cycling, fine"
+            },
+            {
+                "TopicID": "L49",
+                "Words": "niche, fruit, fly, host, invasion, breadth, nutritional, category, zonata, quality"
+            },
+            {
+                "TopicID": "L50",
+                "Words": "male, female, reproductive, sperm, immune, sex, sexual, insect, pollinator, cost"
+            },
+            {
+                "TopicID": "L51",
+                "Words": "island, epigenetic, isolation, atoll, endemic, dispersal, methylation, richness, archipelago, rabbit"
+            },
+            {
+                "TopicID": "L52",
+                "Words": "survival, age, breeding, probability, female, demographic, mortality, state, reproductive, class"
+            },
+            {
+                "TopicID": "L53",
+                "Words": "human, people, heritage, cultural, land, elephant, social, practice, village, wild"
+            },
+            {
+                "TopicID": "L54",
+                "Words": "owl, vole, predation, element, goshawk, prey, predator, tawny, turbine, wind"
+            },
+            {
+                "TopicID": "L55",
+                "Words": "strain, mite, orchid, treatment, radiation, versus, exposure, spider, marginal, infection"
+            },
+            {
+                "TopicID": "L56",
+                "Words": "parasite, host, mite, diet, genotype, cancer, wild, blood, disease, aquaculture"
+            },
+            {
+                "TopicID": "L57",
+                "Words": "soil, root, fungal, fungi, microbial, nitrogen, treatment, otus, sequence, substrate"
+            },
+            {
+                "TopicID": "L58",
+                "Words": "genetic, snp, gene, locus, genome, allele, dna, sequencing, generation, inbreeding"
+            },
+            {
+                "TopicID": "L59",
+                "Words": "ant, forest, colony, nest, worker, edge, queen, tree, compound, leaf"
+            },
+            {
+                "TopicID": "L60",
+                "Words": "network, strength, association, matrix, node, social, betweenness, pollinator, mutualistic, degree"
+            },
+            {
+                "TopicID": "L61",
+                "Words": "genetic, phenotypic, adaptation, genotype, gene, hybrid, garden, allele, evolutionary, fitness"
+            },
+            {
+                "TopicID": "L62",
+                "Words": "sediment, concentration, catchment, seed, stream, buffer, woody, exposure, indirect, phenological"
+            },
+            {
+                "TopicID": "L63",
+                "Words": "native, invasion, invasive, primer, introduced, alien, dna, nonnative, sequence, success"
+            },
+            {
+                "TopicID": "L64",
+                "Words": "evolutionary, competition, state, equilibrium, perturbation, extinction, equation, cycle, theory, simulation"
+            },
+            {
+                "TopicID": "L65",
+                "Words": "fire, plot, depth, peat, morph, burned, exposure, sphagnum, caterpillar, peatland"
+            },
+            {
+                "TopicID": "L66",
+                "Words": "tree, forest, leaf, plot, stand, oak, canopy, insect, herbivore, height"
+            },
+            {
+                "TopicID": "L67",
+                "Words": "competition, landscape, dispersal, patch, niche, simulation, metacommunity, temporal, prediction, space"
+            },
+            {
+                "TopicID": "L68",
+                "Words": "online, library, rule, downloaded, governed, applicable, writing, supporting, colony, tree"
+            },
+            {
+                "TopicID": "L69",
+                "Words": "female, offspring, sex, male, reproductive, mating, success, egg, maternal, moth"
+            }
+        ]
+    }
+}

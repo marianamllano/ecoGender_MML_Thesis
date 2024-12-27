@@ -1,0 +1,828 @@
+{
+    "louvain": {
+        "Community 0": [
+            {
+                "TopicID": "B-1",
+                "Words": "ecology, species, habitat, populations, diversity, traits, environmental, communities, variation"
+            },
+            {
+                "TopicID": "B0",
+                "Words": "haplotypes, genetic, populations, genome, species, gene, alleles, sequencing, diversity"
+            },
+            {
+                "TopicID": "B3",
+                "Words": "dispersal, species, habitat, populations, phenotypic, evolution, niche, climatic, climate"
+            },
+            {
+                "TopicID": "B5",
+                "Words": "ecology, ecological, species, scientifiques, cite, doi, scientific, hal, research"
+            },
+            {
+                "TopicID": "B8",
+                "Words": "lizards, lizard, reptiles, thermoregulation, warming, climate, temperatures, temperature, dehydration"
+            },
+            {
+                "TopicID": "B10",
+                "Words": "pathogens, pathogen, parasites, parasite, virulence, evolutionary, infections, species, infected"
+            },
+            {
+                "TopicID": "B11",
+                "Words": "study, methodology, editing, investigation, research, manuscript, supervision, publication, analysis"
+            },
+            {
+                "TopicID": "B12",
+                "Words": "deer, habitat, hunting, animals, prey, diurnality, animal, abundance, lynx"
+            },
+            {
+                "TopicID": "B13",
+                "Words": "ecosystem, nutrient, biomasses, biomass, nutrients, feeding, trophic, extinction, enrichment"
+            },
+            {
+                "TopicID": "B16",
+                "Words": "coral, corals, corallioides, reef, algae, reefs, coralline, symbiodiniaceae, photosynthesis"
+            },
+            {
+                "TopicID": "B17",
+                "Words": "ecological, species, abundances, pollinators, networks, communities, interactions, pollinator, plants"
+            },
+            {
+                "TopicID": "B18",
+                "Words": "seals, foraging, dives, prey, diving, dive, seal, penguins, sea"
+            },
+            {
+                "TopicID": "B20",
+                "Words": "species, conspicuousness, mimicry, prey, predators, evolution, predation, predator, colour"
+            },
+            {
+                "TopicID": "B21",
+                "Words": "habitats, habitat, eelgrass, seagrass, species, predation, fishes, trophic, benthic"
+            },
+            {
+                "TopicID": "B25",
+                "Words": "larvae, larval, eggs, parasitoids, egg, parasitoid, drosophila, flies, parasitism"
+            },
+            {
+                "TopicID": "B26",
+                "Words": "lm, 0m7m1, l0, bm, uorb1, lv, m7v1r, uvb77, 0bo7b"
+            },
+            {
+                "TopicID": "B29",
+                "Words": "bats, habitats, habitat, bat, turbines, wind, foraging, hedgerows, renewable"
+            },
+            {
+                "TopicID": "B31",
+                "Words": "phytoplankton, ecosystem, nutrient, plankton, temperatures, metabolic, nutrients, temperature, photosynthetic"
+            },
+            {
+                "TopicID": "B32",
+                "Words": "strength, m1, 75, 44, 85, m3, 50, m2, 88"
+            },
+            {
+                "TopicID": "B33",
+                "Words": "prey, predators, dispersal, stability, predator, species, perturbations, abundances, abundance"
+            },
+            {
+                "TopicID": "B34",
+                "Words": "longevity, reproductive, fetus, birth, cohort, growth, lateborn, date, offspring"
+            },
+            {
+                "TopicID": "B38",
+                "Words": "communities, centrality, social, networks, associations, demographic, groups, association, individuals"
+            },
+            {
+                "TopicID": "B39",
+                "Words": "pike, fishes, extinctions, extinction, perch, fish, predators, predation, lakes"
+            },
+            {
+                "TopicID": "B40",
+                "Words": "biodiversity, taxonomic, ecology, reefs, reef, species, coral, phylogenetic, ocean"
+            },
+            {
+                "TopicID": "B42",
+                "Words": "fisheries, fishery, fishing, fished, metapopulation, ecosystem, dispersal, fish, spawning"
+            },
+            {
+                "TopicID": "B44",
+                "Words": "aphids, aphid, parasitoids, parasitoid, aphidius, larvae, parasitism, predators, herbivore"
+            },
+            {
+                "TopicID": "B45",
+                "Words": "ecological, ecosystem, ecosystems, mpas, mpa, biodiversity, conservation, sustainable, marine"
+            },
+            {
+                "TopicID": "B48",
+                "Words": "fires, fire, wildfire, areas, forest, vegetation, spatial, ecological, burn"
+            },
+            {
+                "TopicID": "B49",
+                "Words": "evolutionary, evolution, phenotypic, trait, ecological, ecology, mutation, genetic, ecosystem"
+            },
+            {
+                "TopicID": "B50",
+                "Words": "spermatogenesis, sperm, reproductive, fertilization, mating, seminal, offspring, semen, paternal"
+            },
+            {
+                "TopicID": "B53",
+                "Words": "drosophila, strains, yakuba, species, mating, pigmentation, ventral, flies, bcyak"
+            },
+            {
+                "TopicID": "B56",
+                "Words": "pollinators, pollinating, pollinator, wasps, figs, sycophila, fig, wasp, species"
+            },
+            {
+                "TopicID": "B58",
+                "Words": "teeth, snakes, tooth, snake, dentary, molars, vertebrates, dentition, dental"
+            },
+            {
+                "TopicID": "B62",
+                "Words": "epigenetic, epigenetics, methylation, genes, methylated, phenotypic, genomic, genomes, genome"
+            },
+            {
+                "TopicID": "B65",
+                "Words": "dispersal, mating, moth, populations, predators, gypsy, predator, invading, emergence"
+            }
+        ],
+        "Community 1": [
+            {
+                "TopicID": "B7",
+                "Words": "ecological, conservation, heritage, ecosystem, stakeholders, cultural, nature, land, resilience"
+            },
+            {
+                "TopicID": "B15",
+                "Words": "bees, bee, foraging, pollination, honey, nectar, bumblebees, species, pollen"
+            },
+            {
+                "TopicID": "B30",
+                "Words": "flowering, pollination, plants, flowers, flower, floral, pollinators, pollinator, plant"
+            }
+        ],
+        "Community 2": [
+            {
+                "TopicID": "B1",
+                "Words": "ecological, species, traits, phylogenetic, dispersal, trait, diversity, niche, plant"
+            },
+            {
+                "TopicID": "B2",
+                "Words": "forests, vegetation, trees, forest, ecology, tree, climate, biomass, species"
+            },
+            {
+                "TopicID": "B6",
+                "Words": "litter, litters, ecosystem, decomposers, litterbags, decomposer, biomass, soil, nutrient"
+            },
+            {
+                "TopicID": "B9",
+                "Words": "vegetation, grassland, crops, biodiversity, grasslands, landscape, landscapes, habitats, crop"
+            },
+            {
+                "TopicID": "B14",
+                "Words": "species, ecology, biodiversity, ecological, zoology, ecosystem, conservation, biological, forest"
+            },
+            {
+                "TopicID": "B19",
+                "Words": "ants, ant, nests, forests, species, fungi, soil, trees, crematogaster"
+            },
+            {
+                "TopicID": "B22",
+                "Words": "roots, root, soil, mycorrhizal, plant, biomass, tree, nutrient, morphological"
+            },
+            {
+                "TopicID": "B24",
+                "Words": "fungi, fungal, ecology, ectomycorrhizal, soils, plants, mycorrhizal, soil, species"
+            },
+            {
+                "TopicID": "B27",
+                "Words": "trees, forests, leaves, forest, tree, quercus, leaf, herbivory, herbivores"
+            },
+            {
+                "TopicID": "B28",
+                "Words": "microbial, microbes, phototrophic, peatlands, biomass, peat, bacteria, biochemical, cyanobacteria"
+            },
+            {
+                "TopicID": "B41",
+                "Words": "parasitoids, parasitoid, parasitism, species, flies, plants, tephritidae, solanum, invasions"
+            },
+            {
+                "TopicID": "B46",
+                "Words": "archipelagos, ecology, islands, dispersal, archipelago, ecological, species, speciation, island"
+            },
+            {
+                "TopicID": "B51",
+                "Words": "ecosystem, ecosystems, catchments, catchment, hydrological, rivers, river, ecological, aquatic"
+            },
+            {
+                "TopicID": "B54",
+                "Words": "soil, soils, grassland, ecosystem, nitrogen, grasslands, nitrate, ecology, microbial"
+            },
+            {
+                "TopicID": "B55",
+                "Words": "agromyzidae, species, aphididae, asteraceae, herbivore, tephritidae, oleraceus, spinus, chloris"
+            },
+            {
+                "TopicID": "B59",
+                "Words": "wolbachia, fungi, wolbachiainfected, fungal, entomopathogenic, strains, infected, infection, antibiotic"
+            },
+            {
+                "TopicID": "B60",
+                "Words": "forests, trees, ecology, forest, tree, species, scientifiques, tropical, research"
+            },
+            {
+                "TopicID": "B64",
+                "Words": "sapotaceae, seeds, dispersal, myristicaceae, fruits, plants, seed, fruit, species"
+            }
+        ],
+        "Community 3": [
+            {
+                "TopicID": "B4",
+                "Words": "breeding, recapture, reproduction, breeders, mortality, survival, models, reproductive, probabilities"
+            },
+            {
+                "TopicID": "B23",
+                "Words": "breeding, nests, tits, species, birds, predation, tit, blue, clutch"
+            },
+            {
+                "TopicID": "B35",
+                "Words": "immunity, immune, reproduction, vaccine, reproductive, vaccination, antibodies, breeding, antibody"
+            },
+            {
+                "TopicID": "B36",
+                "Words": "rodents, mammals, rodent, mammal, species, rodentborne, habitat, ecological, rattus"
+            },
+            {
+                "TopicID": "B37",
+                "Words": "ecology, species, habitat, detection, monitoring, abundance, conspicuousness, counts, sampling"
+            },
+            {
+                "TopicID": "B43",
+                "Words": "phenotypic, habitats, populations, ecology, habitat, species, urbanization, evolutionary, traits"
+            },
+            {
+                "TopicID": "B47",
+                "Words": "telomeres, telomere, telomerase, lifespan, phylogeny, longevity, phylogenetic, reproduction, offspring"
+            },
+            {
+                "TopicID": "B52",
+                "Words": "biodiversity, ecology, ecological, scientic, researchers, scientists, scientific, citsci, research"
+            },
+            {
+                "TopicID": "B57",
+                "Words": "populations, population, demographic, stochasticity, stochastic, species, reproduction, growth, survival"
+            },
+            {
+                "TopicID": "B61",
+                "Words": "seabirds, seabird, birds, ecology, bird, breeding, hal, scientifiques, scientific"
+            },
+            {
+                "TopicID": "B63",
+                "Words": "owls, predation, owl, breeding, reproduction, prey, reproductive, goshawks, goshawk"
+            }
+        ]
+    },
+    "girvan_newman": {
+        "Community 0": [
+            {
+                "TopicID": "B-1",
+                "Words": "ecology, species, habitat, populations, diversity, traits, environmental, communities, variation"
+            },
+            {
+                "TopicID": "B0",
+                "Words": "haplotypes, genetic, populations, genome, species, gene, alleles, sequencing, diversity"
+            },
+            {
+                "TopicID": "B1",
+                "Words": "ecological, species, traits, phylogenetic, dispersal, trait, diversity, niche, plant"
+            },
+            {
+                "TopicID": "B2",
+                "Words": "forests, vegetation, trees, forest, ecology, tree, climate, biomass, species"
+            },
+            {
+                "TopicID": "B3",
+                "Words": "dispersal, species, habitat, populations, phenotypic, evolution, niche, climatic, climate"
+            },
+            {
+                "TopicID": "B4",
+                "Words": "breeding, recapture, reproduction, breeders, mortality, survival, models, reproductive, probabilities"
+            },
+            {
+                "TopicID": "B5",
+                "Words": "ecology, ecological, species, scientifiques, cite, doi, scientific, hal, research"
+            },
+            {
+                "TopicID": "B6",
+                "Words": "litter, litters, ecosystem, decomposers, litterbags, decomposer, biomass, soil, nutrient"
+            },
+            {
+                "TopicID": "B7",
+                "Words": "ecological, conservation, heritage, ecosystem, stakeholders, cultural, nature, land, resilience"
+            },
+            {
+                "TopicID": "B8",
+                "Words": "lizards, lizard, reptiles, thermoregulation, warming, climate, temperatures, temperature, dehydration"
+            },
+            {
+                "TopicID": "B9",
+                "Words": "vegetation, grassland, crops, biodiversity, grasslands, landscape, landscapes, habitats, crop"
+            },
+            {
+                "TopicID": "B10",
+                "Words": "pathogens, pathogen, parasites, parasite, virulence, evolutionary, infections, species, infected"
+            },
+            {
+                "TopicID": "B11",
+                "Words": "study, methodology, editing, investigation, research, manuscript, supervision, publication, analysis"
+            },
+            {
+                "TopicID": "B12",
+                "Words": "deer, habitat, hunting, animals, prey, diurnality, animal, abundance, lynx"
+            },
+            {
+                "TopicID": "B13",
+                "Words": "ecosystem, nutrient, biomasses, biomass, nutrients, feeding, trophic, extinction, enrichment"
+            },
+            {
+                "TopicID": "B14",
+                "Words": "species, ecology, biodiversity, ecological, zoology, ecosystem, conservation, biological, forest"
+            },
+            {
+                "TopicID": "B15",
+                "Words": "bees, bee, foraging, pollination, honey, nectar, bumblebees, species, pollen"
+            },
+            {
+                "TopicID": "B16",
+                "Words": "coral, corals, corallioides, reef, algae, reefs, coralline, symbiodiniaceae, photosynthesis"
+            },
+            {
+                "TopicID": "B17",
+                "Words": "ecological, species, abundances, pollinators, networks, communities, interactions, pollinator, plants"
+            },
+            {
+                "TopicID": "B18",
+                "Words": "seals, foraging, dives, prey, diving, dive, seal, penguins, sea"
+            },
+            {
+                "TopicID": "B19",
+                "Words": "ants, ant, nests, forests, species, fungi, soil, trees, crematogaster"
+            },
+            {
+                "TopicID": "B20",
+                "Words": "species, conspicuousness, mimicry, prey, predators, evolution, predation, predator, colour"
+            },
+            {
+                "TopicID": "B21",
+                "Words": "habitats, habitat, eelgrass, seagrass, species, predation, fishes, trophic, benthic"
+            },
+            {
+                "TopicID": "B22",
+                "Words": "roots, root, soil, mycorrhizal, plant, biomass, tree, nutrient, morphological"
+            },
+            {
+                "TopicID": "B23",
+                "Words": "breeding, nests, tits, species, birds, predation, tit, blue, clutch"
+            },
+            {
+                "TopicID": "B24",
+                "Words": "fungi, fungal, ecology, ectomycorrhizal, soils, plants, mycorrhizal, soil, species"
+            },
+            {
+                "TopicID": "B25",
+                "Words": "larvae, larval, eggs, parasitoids, egg, parasitoid, drosophila, flies, parasitism"
+            },
+            {
+                "TopicID": "B26",
+                "Words": "lm, 0m7m1, l0, bm, uorb1, lv, m7v1r, uvb77, 0bo7b"
+            },
+            {
+                "TopicID": "B27",
+                "Words": "trees, forests, leaves, forest, tree, quercus, leaf, herbivory, herbivores"
+            },
+            {
+                "TopicID": "B28",
+                "Words": "microbial, microbes, phototrophic, peatlands, biomass, peat, bacteria, biochemical, cyanobacteria"
+            },
+            {
+                "TopicID": "B29",
+                "Words": "bats, habitats, habitat, bat, turbines, wind, foraging, hedgerows, renewable"
+            },
+            {
+                "TopicID": "B30",
+                "Words": "flowering, pollination, plants, flowers, flower, floral, pollinators, pollinator, plant"
+            },
+            {
+                "TopicID": "B31",
+                "Words": "phytoplankton, ecosystem, nutrient, plankton, temperatures, metabolic, nutrients, temperature, photosynthetic"
+            },
+            {
+                "TopicID": "B32",
+                "Words": "strength, m1, 75, 44, 85, m3, 50, m2, 88"
+            },
+            {
+                "TopicID": "B33",
+                "Words": "prey, predators, dispersal, stability, predator, species, perturbations, abundances, abundance"
+            },
+            {
+                "TopicID": "B34",
+                "Words": "longevity, reproductive, fetus, birth, cohort, growth, lateborn, date, offspring"
+            },
+            {
+                "TopicID": "B35",
+                "Words": "immunity, immune, reproduction, vaccine, reproductive, vaccination, antibodies, breeding, antibody"
+            },
+            {
+                "TopicID": "B36",
+                "Words": "rodents, mammals, rodent, mammal, species, rodentborne, habitat, ecological, rattus"
+            },
+            {
+                "TopicID": "B37",
+                "Words": "ecology, species, habitat, detection, monitoring, abundance, conspicuousness, counts, sampling"
+            },
+            {
+                "TopicID": "B38",
+                "Words": "communities, centrality, social, networks, associations, demographic, groups, association, individuals"
+            },
+            {
+                "TopicID": "B39",
+                "Words": "pike, fishes, extinctions, extinction, perch, fish, predators, predation, lakes"
+            },
+            {
+                "TopicID": "B40",
+                "Words": "biodiversity, taxonomic, ecology, reefs, reef, species, coral, phylogenetic, ocean"
+            },
+            {
+                "TopicID": "B41",
+                "Words": "parasitoids, parasitoid, parasitism, species, flies, plants, tephritidae, solanum, invasions"
+            },
+            {
+                "TopicID": "B42",
+                "Words": "fisheries, fishery, fishing, fished, metapopulation, ecosystem, dispersal, fish, spawning"
+            },
+            {
+                "TopicID": "B43",
+                "Words": "phenotypic, habitats, populations, ecology, habitat, species, urbanization, evolutionary, traits"
+            },
+            {
+                "TopicID": "B44",
+                "Words": "aphids, aphid, parasitoids, parasitoid, aphidius, larvae, parasitism, predators, herbivore"
+            },
+            {
+                "TopicID": "B45",
+                "Words": "ecological, ecosystem, ecosystems, mpas, mpa, biodiversity, conservation, sustainable, marine"
+            },
+            {
+                "TopicID": "B46",
+                "Words": "archipelagos, ecology, islands, dispersal, archipelago, ecological, species, speciation, island"
+            },
+            {
+                "TopicID": "B47",
+                "Words": "telomeres, telomere, telomerase, lifespan, phylogeny, longevity, phylogenetic, reproduction, offspring"
+            },
+            {
+                "TopicID": "B48",
+                "Words": "fires, fire, wildfire, areas, forest, vegetation, spatial, ecological, burn"
+            },
+            {
+                "TopicID": "B49",
+                "Words": "evolutionary, evolution, phenotypic, trait, ecological, ecology, mutation, genetic, ecosystem"
+            },
+            {
+                "TopicID": "B50",
+                "Words": "spermatogenesis, sperm, reproductive, fertilization, mating, seminal, offspring, semen, paternal"
+            },
+            {
+                "TopicID": "B51",
+                "Words": "ecosystem, ecosystems, catchments, catchment, hydrological, rivers, river, ecological, aquatic"
+            },
+            {
+                "TopicID": "B52",
+                "Words": "biodiversity, ecology, ecological, scientic, researchers, scientists, scientific, citsci, research"
+            },
+            {
+                "TopicID": "B54",
+                "Words": "soil, soils, grassland, ecosystem, nitrogen, grasslands, nitrate, ecology, microbial"
+            },
+            {
+                "TopicID": "B55",
+                "Words": "agromyzidae, species, aphididae, asteraceae, herbivore, tephritidae, oleraceus, spinus, chloris"
+            },
+            {
+                "TopicID": "B56",
+                "Words": "pollinators, pollinating, pollinator, wasps, figs, sycophila, fig, wasp, species"
+            },
+            {
+                "TopicID": "B57",
+                "Words": "populations, population, demographic, stochasticity, stochastic, species, reproduction, growth, survival"
+            },
+            {
+                "TopicID": "B58",
+                "Words": "teeth, snakes, tooth, snake, dentary, molars, vertebrates, dentition, dental"
+            },
+            {
+                "TopicID": "B60",
+                "Words": "forests, trees, ecology, forest, tree, species, scientifiques, tropical, research"
+            },
+            {
+                "TopicID": "B61",
+                "Words": "seabirds, seabird, birds, ecology, bird, breeding, hal, scientifiques, scientific"
+            },
+            {
+                "TopicID": "B62",
+                "Words": "epigenetic, epigenetics, methylation, genes, methylated, phenotypic, genomic, genomes, genome"
+            },
+            {
+                "TopicID": "B63",
+                "Words": "owls, predation, owl, breeding, reproduction, prey, reproductive, goshawks, goshawk"
+            },
+            {
+                "TopicID": "B64",
+                "Words": "sapotaceae, seeds, dispersal, myristicaceae, fruits, plants, seed, fruit, species"
+            },
+            {
+                "TopicID": "B65",
+                "Words": "dispersal, mating, moth, populations, predators, gypsy, predator, invading, emergence"
+            }
+        ],
+        "Community 1": [
+            {
+                "TopicID": "B53",
+                "Words": "drosophila, strains, yakuba, species, mating, pigmentation, ventral, flies, bcyak"
+            }
+        ],
+        "Community 2": [
+            {
+                "TopicID": "B59",
+                "Words": "wolbachia, fungi, wolbachiainfected, fungal, entomopathogenic, strains, infected, infection, antibiotic"
+            }
+        ]
+    },
+    "k_clique": {
+        "Community 0": [
+            {
+                "TopicID": "B-1",
+                "Words": "ecology, species, habitat, populations, diversity, traits, environmental, communities, variation"
+            },
+            {
+                "TopicID": "B0",
+                "Words": "haplotypes, genetic, populations, genome, species, gene, alleles, sequencing, diversity"
+            },
+            {
+                "TopicID": "B1",
+                "Words": "ecological, species, traits, phylogenetic, dispersal, trait, diversity, niche, plant"
+            },
+            {
+                "TopicID": "B2",
+                "Words": "forests, vegetation, trees, forest, ecology, tree, climate, biomass, species"
+            },
+            {
+                "TopicID": "B3",
+                "Words": "dispersal, species, habitat, populations, phenotypic, evolution, niche, climatic, climate"
+            },
+            {
+                "TopicID": "B4",
+                "Words": "breeding, recapture, reproduction, breeders, mortality, survival, models, reproductive, probabilities"
+            },
+            {
+                "TopicID": "B5",
+                "Words": "ecology, ecological, species, scientifiques, cite, doi, scientific, hal, research"
+            },
+            {
+                "TopicID": "B6",
+                "Words": "litter, litters, ecosystem, decomposers, litterbags, decomposer, biomass, soil, nutrient"
+            },
+            {
+                "TopicID": "B7",
+                "Words": "ecological, conservation, heritage, ecosystem, stakeholders, cultural, nature, land, resilience"
+            },
+            {
+                "TopicID": "B8",
+                "Words": "lizards, lizard, reptiles, thermoregulation, warming, climate, temperatures, temperature, dehydration"
+            },
+            {
+                "TopicID": "B9",
+                "Words": "vegetation, grassland, crops, biodiversity, grasslands, landscape, landscapes, habitats, crop"
+            },
+            {
+                "TopicID": "B10",
+                "Words": "pathogens, pathogen, parasites, parasite, virulence, evolutionary, infections, species, infected"
+            },
+            {
+                "TopicID": "B11",
+                "Words": "study, methodology, editing, investigation, research, manuscript, supervision, publication, analysis"
+            },
+            {
+                "TopicID": "B12",
+                "Words": "deer, habitat, hunting, animals, prey, diurnality, animal, abundance, lynx"
+            },
+            {
+                "TopicID": "B13",
+                "Words": "ecosystem, nutrient, biomasses, biomass, nutrients, feeding, trophic, extinction, enrichment"
+            },
+            {
+                "TopicID": "B14",
+                "Words": "species, ecology, biodiversity, ecological, zoology, ecosystem, conservation, biological, forest"
+            },
+            {
+                "TopicID": "B15",
+                "Words": "bees, bee, foraging, pollination, honey, nectar, bumblebees, species, pollen"
+            },
+            {
+                "TopicID": "B16",
+                "Words": "coral, corals, corallioides, reef, algae, reefs, coralline, symbiodiniaceae, photosynthesis"
+            },
+            {
+                "TopicID": "B17",
+                "Words": "ecological, species, abundances, pollinators, networks, communities, interactions, pollinator, plants"
+            },
+            {
+                "TopicID": "B18",
+                "Words": "seals, foraging, dives, prey, diving, dive, seal, penguins, sea"
+            },
+            {
+                "TopicID": "B19",
+                "Words": "ants, ant, nests, forests, species, fungi, soil, trees, crematogaster"
+            },
+            {
+                "TopicID": "B20",
+                "Words": "species, conspicuousness, mimicry, prey, predators, evolution, predation, predator, colour"
+            },
+            {
+                "TopicID": "B21",
+                "Words": "habitats, habitat, eelgrass, seagrass, species, predation, fishes, trophic, benthic"
+            },
+            {
+                "TopicID": "B22",
+                "Words": "roots, root, soil, mycorrhizal, plant, biomass, tree, nutrient, morphological"
+            },
+            {
+                "TopicID": "B23",
+                "Words": "breeding, nests, tits, species, birds, predation, tit, blue, clutch"
+            },
+            {
+                "TopicID": "B24",
+                "Words": "fungi, fungal, ecology, ectomycorrhizal, soils, plants, mycorrhizal, soil, species"
+            },
+            {
+                "TopicID": "B25",
+                "Words": "larvae, larval, eggs, parasitoids, egg, parasitoid, drosophila, flies, parasitism"
+            },
+            {
+                "TopicID": "B26",
+                "Words": "lm, 0m7m1, l0, bm, uorb1, lv, m7v1r, uvb77, 0bo7b"
+            },
+            {
+                "TopicID": "B27",
+                "Words": "trees, forests, leaves, forest, tree, quercus, leaf, herbivory, herbivores"
+            },
+            {
+                "TopicID": "B28",
+                "Words": "microbial, microbes, phototrophic, peatlands, biomass, peat, bacteria, biochemical, cyanobacteria"
+            },
+            {
+                "TopicID": "B29",
+                "Words": "bats, habitats, habitat, bat, turbines, wind, foraging, hedgerows, renewable"
+            },
+            {
+                "TopicID": "B30",
+                "Words": "flowering, pollination, plants, flowers, flower, floral, pollinators, pollinator, plant"
+            },
+            {
+                "TopicID": "B31",
+                "Words": "phytoplankton, ecosystem, nutrient, plankton, temperatures, metabolic, nutrients, temperature, photosynthetic"
+            },
+            {
+                "TopicID": "B32",
+                "Words": "strength, m1, 75, 44, 85, m3, 50, m2, 88"
+            },
+            {
+                "TopicID": "B33",
+                "Words": "prey, predators, dispersal, stability, predator, species, perturbations, abundances, abundance"
+            },
+            {
+                "TopicID": "B34",
+                "Words": "longevity, reproductive, fetus, birth, cohort, growth, lateborn, date, offspring"
+            },
+            {
+                "TopicID": "B35",
+                "Words": "immunity, immune, reproduction, vaccine, reproductive, vaccination, antibodies, breeding, antibody"
+            },
+            {
+                "TopicID": "B36",
+                "Words": "rodents, mammals, rodent, mammal, species, rodentborne, habitat, ecological, rattus"
+            },
+            {
+                "TopicID": "B37",
+                "Words": "ecology, species, habitat, detection, monitoring, abundance, conspicuousness, counts, sampling"
+            },
+            {
+                "TopicID": "B38",
+                "Words": "communities, centrality, social, networks, associations, demographic, groups, association, individuals"
+            },
+            {
+                "TopicID": "B39",
+                "Words": "pike, fishes, extinctions, extinction, perch, fish, predators, predation, lakes"
+            },
+            {
+                "TopicID": "B40",
+                "Words": "biodiversity, taxonomic, ecology, reefs, reef, species, coral, phylogenetic, ocean"
+            },
+            {
+                "TopicID": "B41",
+                "Words": "parasitoids, parasitoid, parasitism, species, flies, plants, tephritidae, solanum, invasions"
+            },
+            {
+                "TopicID": "B42",
+                "Words": "fisheries, fishery, fishing, fished, metapopulation, ecosystem, dispersal, fish, spawning"
+            },
+            {
+                "TopicID": "B43",
+                "Words": "phenotypic, habitats, populations, ecology, habitat, species, urbanization, evolutionary, traits"
+            },
+            {
+                "TopicID": "B44",
+                "Words": "aphids, aphid, parasitoids, parasitoid, aphidius, larvae, parasitism, predators, herbivore"
+            },
+            {
+                "TopicID": "B45",
+                "Words": "ecological, ecosystem, ecosystems, mpas, mpa, biodiversity, conservation, sustainable, marine"
+            },
+            {
+                "TopicID": "B46",
+                "Words": "archipelagos, ecology, islands, dispersal, archipelago, ecological, species, speciation, island"
+            },
+            {
+                "TopicID": "B47",
+                "Words": "telomeres, telomere, telomerase, lifespan, phylogeny, longevity, phylogenetic, reproduction, offspring"
+            },
+            {
+                "TopicID": "B48",
+                "Words": "fires, fire, wildfire, areas, forest, vegetation, spatial, ecological, burn"
+            },
+            {
+                "TopicID": "B49",
+                "Words": "evolutionary, evolution, phenotypic, trait, ecological, ecology, mutation, genetic, ecosystem"
+            },
+            {
+                "TopicID": "B50",
+                "Words": "spermatogenesis, sperm, reproductive, fertilization, mating, seminal, offspring, semen, paternal"
+            },
+            {
+                "TopicID": "B51",
+                "Words": "ecosystem, ecosystems, catchments, catchment, hydrological, rivers, river, ecological, aquatic"
+            },
+            {
+                "TopicID": "B52",
+                "Words": "biodiversity, ecology, ecological, scientic, researchers, scientists, scientific, citsci, research"
+            },
+            {
+                "TopicID": "B53",
+                "Words": "drosophila, strains, yakuba, species, mating, pigmentation, ventral, flies, bcyak"
+            },
+            {
+                "TopicID": "B54",
+                "Words": "soil, soils, grassland, ecosystem, nitrogen, grasslands, nitrate, ecology, microbial"
+            },
+            {
+                "TopicID": "B55",
+                "Words": "agromyzidae, species, aphididae, asteraceae, herbivore, tephritidae, oleraceus, spinus, chloris"
+            },
+            {
+                "TopicID": "B56",
+                "Words": "pollinators, pollinating, pollinator, wasps, figs, sycophila, fig, wasp, species"
+            },
+            {
+                "TopicID": "B57",
+                "Words": "populations, population, demographic, stochasticity, stochastic, species, reproduction, growth, survival"
+            },
+            {
+                "TopicID": "B58",
+                "Words": "teeth, snakes, tooth, snake, dentary, molars, vertebrates, dentition, dental"
+            },
+            {
+                "TopicID": "B59",
+                "Words": "wolbachia, fungi, wolbachiainfected, fungal, entomopathogenic, strains, infected, infection, antibiotic"
+            },
+            {
+                "TopicID": "B60",
+                "Words": "forests, trees, ecology, forest, tree, species, scientifiques, tropical, research"
+            },
+            {
+                "TopicID": "B61",
+                "Words": "seabirds, seabird, birds, ecology, bird, breeding, hal, scientifiques, scientific"
+            },
+            {
+                "TopicID": "B62",
+                "Words": "epigenetic, epigenetics, methylation, genes, methylated, phenotypic, genomic, genomes, genome"
+            },
+            {
+                "TopicID": "B63",
+                "Words": "owls, predation, owl, breeding, reproduction, prey, reproductive, goshawks, goshawk"
+            },
+            {
+                "TopicID": "B64",
+                "Words": "sapotaceae, seeds, dispersal, myristicaceae, fruits, plants, seed, fruit, species"
+            },
+            {
+                "TopicID": "B65",
+                "Words": "dispersal, mating, moth, populations, predators, gypsy, predator, invading, emergence"
+            }
+        ]
+    }
+}

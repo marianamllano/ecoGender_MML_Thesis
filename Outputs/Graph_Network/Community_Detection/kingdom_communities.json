@@ -1,0 +1,100 @@
+{
+    "louvain": {
+        "Community 0": [
+            [
+                "GBIF:1",
+                "Animalia"
+            ],
+            [
+                "GBIF:6",
+                "Plantae"
+            ],
+            [
+                "GBIF:5",
+                "Fungi"
+            ]
+        ],
+        "Community 1": [
+            [
+                "GBIF:3",
+                "Bacteria"
+            ],
+            [
+                "GBIF:7",
+                "Protozoa"
+            ],
+            [
+                "GBIF:4",
+                "Chromista"
+            ],
+            [
+                "GBIF:0",
+                "incertae sedis"
+            ]
+        ]
+    },
+    "girvan_newman": {
+        "Community 0": [
+            [
+                "GBIF:1",
+                "Animalia"
+            ],
+            [
+                "GBIF:3",
+                "Bacteria"
+            ],
+            [
+                "GBIF:4",
+                "Chromista"
+            ],
+            [
+                "GBIF:6",
+                "Plantae"
+            ],
+            [
+                "GBIF:7",
+                "Protozoa"
+            ]
+        ],
+        "Community 1": [
+            [
+                "GBIF:5",
+                "Fungi"
+            ]
+        ],
+        "Community 2": [
+            [
+                "GBIF:0",
+                "incertae sedis"
+            ]
+        ]
+    },
+    "k_clique": {
+        "Community 0": [
+            [
+                "GBIF:5",
+                "Fungi"
+            ],
+            [
+                "GBIF:6",
+                "Plantae"
+            ],
+            [
+                "GBIF:1",
+                "Animalia"
+            ],
+            [
+                "GBIF:7",
+                "Protozoa"
+            ],
+            [
+                "GBIF:3",
+                "Bacteria"
+            ],
+            [
+                "GBIF:4",
+                "Chromista"
+            ]
+        ]
+    }
+}

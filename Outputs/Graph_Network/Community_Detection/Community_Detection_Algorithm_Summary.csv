@@ -1,0 +1,10 @@
+Orden,Graph,#Nodes,#Edges
+0,Kingdom,7,15
+1,Phylum,34,128
+2,Class,61,249
+3,Order,265,2960
+4,Family,1014,17974
+5,Genus,3958,91230
+6,Species,1008,199421
+7,TdT LDA,70,2308
+8,TdT BERTopic,67,672
