@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xml:base="http://example.org/taxonomy.owl"
+         xmlns="http://example.org/taxonomy.owl#">
+
+<owl:Ontology rdf:about="http://example.org/taxonomy.owl"/>
+
+<owl:ObjectProperty rdf:about="#hasPhylum">
+  <rdfs:domain rdf:resource="#Taxon"/>
+  <rdfs:range rdf:resource="#Phylum"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasClass">
+  <rdfs:domain rdf:resource="#Taxon"/>
+  <rdfs:range rdf:resource="#Class"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasOrder">
+  <rdfs:domain rdf:resource="#Taxon"/>
+  <rdfs:range rdf:resource="#Order"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasFamily">
+  <rdfs:domain rdf:resource="#Taxon"/>
+  <rdfs:range rdf:resource="#Family"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasGenus">
+  <rdfs:domain rdf:resource="#Taxon"/>
+  <rdfs:range rdf:resource="#Genus"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#hasSpecies">
+  <rdfs:domain rdf:resource="#Taxon"/>
+  <rdfs:range rdf:resource="#Species"/>
+</owl:ObjectProperty>
+
+<owl:Class rdf:about="#Taxon">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Kingdom">
+  <rdfs:subClassOf rdf:resource="#Taxon"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Phylum">
+  <rdfs:subClassOf rdf:resource="#Taxon"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Class">
+  <rdfs:subClassOf rdf:resource="#Taxon"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Order">
+  <rdfs:subClassOf rdf:resource="#Taxon"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Family">
+  <rdfs:subClassOf rdf:resource="#Taxon"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Genus">
+  <rdfs:subClassOf rdf:resource="#Taxon"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Species">
+  <rdfs:subClassOf rdf:resource="#Taxon"/>
+</owl:Class>
+
+<owl:NamedIndividual rdf:about="#Animalia">
+  <rdf:type rdf:resource="#Kingdom"/>
+  <hasPhylum rdf:resource="#Arthropoda"/>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Arthropoda">
+  <rdf:type rdf:resource="#Phylum"/>
+  <hasClass rdf:resource="#Insecta"/>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Insecta">
+  <rdf:type rdf:resource="#Class"/>
+  <hasOrder rdf:resource="#Mecoptera"/>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Mecoptera">
+  <rdf:type rdf:resource="#Order"/>
+  <hasGenus rdf:resource="#Methanobacterium"/>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Methanobacterium">
+  <rdf:type rdf:resource="#Genus"/>
+  <hasSpecies rdf:resource="#Methanobacterium_fridigum"/>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#Methanobacterium_fridigum">
+  <rdf:type rdf:resource="#Species"/>
+</owl:NamedIndividual>
+
+
+</rdf:RDF>
