@@ -1,0 +1,248 @@
+{
+    "family": {
+        "total_nodes": 1017,
+        "total_edges": 17974,
+        "subgraphs": {
+            "Predominantly Male": {
+                "nodes": 514,
+                "edges": 3765,
+                "stats": {
+                    "Size": {
+                        "Max": 62.0,
+                        "Min": 1.0,
+                        "Average": 4.1031,
+                        "Mode": 1.0
+                    },
+                    "F. Author Score": {
+                        "Max": 1.0,
+                        "Min": -1.0,
+                        "Average": -0.0094,
+                        "Mode": -1.0
+                    },
+                    "Team Score": {
+                        "Max": 0.5,
+                        "Min": -1.0,
+                        "Average": -0.3833,
+                        "Mode": -0.5
+                    },
+                    "L. Author Score": {
+                        "Max": -0.5,
+                        "Min": -1.0,
+                        "Average": -0.886,
+                        "Mode": -1.0
+                    },
+                    "Degree Centrality": {
+                        "Max": 0.2283,
+                        "Min": 0.0,
+                        "Average": 0.0288,
+                        "Mode": 0.0059
+                    },
+                    "Betweenness": {
+                        "Max": 0.0281,
+                        "Min": 0.0,
+                        "Average": 0.0007,
+                        "Mode": 0.0
+                    },
+                    "Closeness Centrality": {
+                        "Max": 0.5477,
+                        "Min": 0.0,
+                        "Average": 0.4,
+                        "Mode": 0.37
+                    },
+                    "Eigenvector Centrality": {
+                        "Max": 0.1124,
+                        "Min": 0.0,
+                        "Average": 0.0164,
+                        "Mode": 0.0046
+                    },
+                    "Neighborhood Connectivity": {
+                        "Max": 303.0,
+                        "Min": 0.0,
+                        "Average": 94.0773,
+                        "Mode": 51.9375
+                    },
+                    "Strength": {
+                        "Max": 942.0,
+                        "Min": 0.0,
+                        "Average": 80.2568,
+                        "Mode": 14.0
+                    },
+                    "Avg Weight": {
+                        "Max": 109760.0,
+                        "Min": 0.0,
+                        "Average": 8816.179,
+                        "Mode": 1662.0
+                    }
+                },
+                "subgraph_properties": {
+                    "Density": 0.0286,
+                    "Internal Density": 0.0286,
+                    "External Density": 0.029,
+                    "Graph Cut": 7507,
+                    "Conductance": 0.666,
+                    "Avg Clustering Coefficient": 0.6755
+                }
+            },
+            "Neutral": {
+                "nodes": 330,
+                "edges": 5233,
+                "stats": {
+                    "Size": {
+                        "Max": 114.0,
+                        "Min": 1.0,
+                        "Average": 9.7606,
+                        "Mode": 2.0
+                    },
+                    "F. Author Score": {
+                        "Max": 1.0,
+                        "Min": -1.0,
+                        "Average": 0.0467,
+                        "Mode": 1.0
+                    },
+                    "Team Score": {
+                        "Max": 0.6667,
+                        "Min": -0.8333,
+                        "Average": -0.206,
+                        "Mode": 0.0
+                    },
+                    "L. Author Score": {
+                        "Max": 0.4,
+                        "Min": -0.4868,
+                        "Average": -0.1375,
+                        "Mode": 0.0
+                    },
+                    "Degree Centrality": {
+                        "Max": 0.3396,
+                        "Min": 0.002,
+                        "Average": 0.0565,
+                        "Mode": 0.0443
+                    },
+                    "Betweenness": {
+                        "Max": 0.0836,
+                        "Min": 0.0,
+                        "Average": 0.0032,
+                        "Mode": 0.0
+                    },
+                    "Closeness Centrality": {
+                        "Max": 0.5855,
+                        "Min": 0.002,
+                        "Average": 0.4342,
+                        "Mode": 0.4218
+                    },
+                    "Eigenvector Centrality": {
+                        "Max": 0.152,
+                        "Min": 0.0,
+                        "Average": 0.0313,
+                        "Mode": 0.0332
+                    },
+                    "Neighborhood Connectivity": {
+                        "Max": 165.9167,
+                        "Min": 2.0,
+                        "Average": 92.4475,
+                        "Mode": 110.0444
+                    },
+                    "Strength": {
+                        "Max": 2008.0,
+                        "Min": 4.0,
+                        "Average": 184.6242,
+                        "Mode": 90.0
+                    },
+                    "Avg Weight": {
+                        "Max": 244308.0,
+                        "Min": 8.0,
+                        "Average": 21511.8667,
+                        "Mode": 9904.0
+                    }
+                },
+                "subgraph_properties": {
+                    "Density": 0.0964,
+                    "Internal Density": 0.0964,
+                    "External Density": 0.0374,
+                    "Graph Cut": 8472,
+                    "Conductance": 0.6182,
+                    "Avg Clustering Coefficient": 0.6603
+                }
+            },
+            "Predominantly Women": {
+                "nodes": 173,
+                "edges": 276,
+                "stats": {
+                    "Size": {
+                        "Max": 6.0,
+                        "Min": 1.0,
+                        "Average": 1.2948,
+                        "Mode": 1.0
+                    },
+                    "F. Author Score": {
+                        "Max": 1.0,
+                        "Min": -1.0,
+                        "Average": 0.1794,
+                        "Mode": 1.0
+                    },
+                    "Team Score": {
+                        "Max": 1.0,
+                        "Min": -0.625,
+                        "Average": 0.0837,
+                        "Mode": 0.0
+                    },
+                    "L. Author Score": {
+                        "Max": 1.0,
+                        "Min": 0.5,
+                        "Average": 0.947,
+                        "Mode": 1.0
+                    },
+                    "Degree Centrality": {
+                        "Max": 0.0413,
+                        "Min": 0.0,
+                        "Average": 0.0112,
+                        "Mode": 0.0128
+                    },
+                    "Betweenness": {
+                        "Max": 0.0035,
+                        "Min": 0.0,
+                        "Average": 0.0001,
+                        "Mode": 0.0
+                    },
+                    "Closeness Centrality": {
+                        "Max": 0.4446,
+                        "Min": 0.0,
+                        "Average": 0.3696,
+                        "Mode": 0.2677
+                    },
+                    "Eigenvector Centrality": {
+                        "Max": 0.0245,
+                        "Min": 0.0,
+                        "Average": 0.005,
+                        "Mode": 0.0
+                    },
+                    "Neighborhood Connectivity": {
+                        "Max": 283.5,
+                        "Min": 0.0,
+                        "Average": 85.9803,
+                        "Mode": 13.9231
+                    },
+                    "Strength": {
+                        "Max": 100.0,
+                        "Min": 0.0,
+                        "Average": 24.104,
+                        "Mode": 26.0
+                    },
+                    "Avg Weight": {
+                        "Max": 10278.0,
+                        "Min": 0.0,
+                        "Average": 2048.0694,
+                        "Mode": 362.0
+                    }
+                },
+                "subgraph_properties": {
+                    "Density": 0.0186,
+                    "Internal Density": 0.0186,
+                    "External Density": 0.0097,
+                    "Graph Cut": 1421,
+                    "Conductance": 0.8374,
+                    "Avg Clustering Coefficient": 0.5419
+                }
+            }
+        }
+    }
+}
